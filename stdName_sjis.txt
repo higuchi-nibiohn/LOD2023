@@ -1,0 +1,2624 @@
+分類番号1	分類番号2	食品名カテ1	食品名カテ2	食品名カテ3	食品名カテ4	食品名カテ5	食品名カテ6	食品名カテ7	食品名カテ8	英語表記
+69		農産食品								AGRICULTURAL PRODUCTS 
+69	1		米穀							Rice 
+69	11			もみ						Unhulled rice 
+69	111				国内産普通もみ					Domestic unhulled rice 
+69	1111					水稲うるちもみ				Lowland nonglutinous unhulled rice 
+69	1112					水稲もちもみ				Lowland glutinous unhulled rice 
+69	1113					陸稲うるちもみ				Upland nonglutinous unhulled rice 
+69	1114					陸稲もちもみ				Upland glutinous unhulled rice 
+69	112				外国産普通もみ					Foreign unhulled rice 
+69	1121					うるちもみ				Nonglutinous unhulled rice 
+69	1122					もちもみ				Glutinous unhulled rice 
+69	12			玄米						Broken rice 
+69	121				国内産玄米					Domestic brown rice 
+69	1211					水稲うるち玄米				Lowland nonglutinous brown rice 
+69	1212					水稲もち玄米				Lowland glutinous brown rice 
+69	1213					陸稲うるち玄米				Upland nonglutinous brown rice 
+69	1214					陸稲もち玄米				Upland glutinous brown rice 
+69	1215					醸造用玄米				Brown rice for brewing 
+69	122				外国産玄米					Foreign brown rice 
+69	1221					うるち玄米				Nonglutinous brown rice 
+69	1222					もち玄米				Glutinous brown rice 
+69	123				くず玄米					Other brown rice 
+69	13			精米						Polished rice 
+69	131				国内産精米					Domestic polished rice 
+69	1311					水稲うるち精米				Lowland nonglutinous polished rice 
+69	1312					水稲もち精米				Lowland glutinous polished rice 
+69	1313					陸稲うるち精米				Upland nonglutinous polished rice. 
+69	1314					陸稲もち精米				Upland glutinous polished rice 
+69	132				外国産精米					Foreign polished rice 
+69	1321					うるち精米				Nonglutinous polished rice 
+69	1322					もち精米				Glutinous polished rice 
+69	133				砕精米					Broken rice 
+69	1331					国内産砕精米				Domestic broken rice 
+69	13311						砕うるち精米			Nonglutinous broken rice 
+69	13312						砕もち精米			Glutinous broken rice 
+69	13319						その他の砕精米			Other broken rice 
+69	1332					外国産砕精米				Foreign broken rice 
+69	13321						砕うるち精米			Nonglutinous broken rice 
+69	13322						砕もち精米			Glutinous broken rice 
+69	13329						その他の砕精米			Other broken rice 
+69	2		麦類							Wheat and barley 
+69	21			大麦						Barley 
+69	211				国内産大麦					Domestic barley 
+69	2111					普通小粒大麦				Ordinary six-rowed barley 
+69	2112					普通大粒大麦				Ordinary two-rowed barley 
+69	2113					ビール大麦				Barley for brewery 
+69	212				外国産大麦					Imported barley. 
+69	2121					普通大麦				Ordinary barley 
+69	2122					ビール大麦				Barley for brewery 
+69	22			はだか麦						Naked barley 
+69	23			小麦						Wheat 
+69	231				国内産小麦					Domestic wheat 
+69	2311					普通小麦				Ordinary wheat 
+69	2312					強力小麦				Strong wheat 
+69	232				外国産小麦					Imported wheat 
+69	2321					普通小麦				Ordinary wheat 
+69	2322					準強力小麦				Semistrong wheat 
+69	2323					強力小麦				Strong wheat 
+69	2324					デュラム小麦				Durum wheat 
+69	24			ライ麦						Rye 
+69	25			えん麦						Oats 
+69	251				裸えん麦					Naked oats 
+69	252				普通えん麦					Bright oats 
+69	253				草えん麦					Green oats 
+69	26			精麦						Processed barley 
+69	261				普通精麦					Ordinary processed barley 
+69	2611					押麦				Pressed barley 
+69	2612					切断圧ぺん				Split pressed barley 
+69	2613					切断無圧ぺん				Split pearled barley 
+69	2614					精白麦				Pearled barley 
+69	262				強化精麦					Processed barley added vitamin 
+69	2621					切断圧ぺん				Split pressed barley added vitamin 
+69	2629					その他の強化精麦				Other processed barley added vitamin 
+69	263				ばん砕麦					Feed barley meal 
+69	264				圧ぺん麦					Pressed feed barley 
+69	3		雑穀							Miscellaneous grains 
+69	31			とうもろこし（未成熟を除く。）						Maize (corn)(except immature) 
+69	311				デントコーン					Dent corn 
+69	312				フリントコーン					Flint corn 
+69	313				ポップコーン					Pop corn 
+69	319				その他のとうもろこし（未成熟を除く。）					Other maize (corn) (except immature) 
+69	32			あわ						Foxtail millet 
+69	321				玄あわ					Husked foxtail millet 
+69	3211					うるちあわ				Nonglutinous husked foxtail millet 
+69	3212					もちあわ				Glutinous husked foxtail millet 
+69	322				精あわ					Polished foxtail millet 
+69	3221					うるちあわ				Nonglutinous polished foxtail millet 
+69	3222					もちあわ				Glutinous polished foxtail millet 
+69	33			ひえ						Barnyard millet 
+69	331				玄ひえ					Husked barnyard millet 
+69	3311					白ひえ				Husked barnyard millet (white) 
+69	3312					赤ひえ				Husked barnyard millet (red) 
+69	332				精ひえ					Polished barnyard millet 
+69	34			そば						Buck wheat 
+69	35			きび						Proso millet 
+69	351				玄きび					Husked proso millet 
+69	3511					うるちきび				Nonglutinous husked proso millet 
+69	3512					もちきび				Glutinous husked proso millet 
+69	352				精きび					Polished proso millet 
+69	36			もろこし（砂糖もろこしを含む。）						Grain sorghum (including sugar grain) 
+69	361				玄もろこし					Husked grain sorghum 
+69	3611					うるちもろこし				Nonglutinous husked grain sorghum 
+69	3612					もちもろこし				Glutinous husked grain sorghum 
+69	362				玄こうりゃん					Husked koryan 
+69	363				精もろこし（精こうりゃんを含む。）					Polished grain sorghum (including polished koryan) 
+69	37			はとむぎ						"Job'stear, ""hatomugi"" "
+69	39			その他の雑穀						Other grains 
+69	4		豆類（種子用及び未成熟のものを除く。）							Pulses (except seed and immature pulses) 
+69	41			大豆						Soybeans
+69	411				国内産普通大豆					Domestic ordinary soybeans 
+69	4111					大粒大豆				Domestic big grain soybeans 
+69	4112					中粒大豆				Domestic middle grain soybeans 
+69	4113					小粒大豆				Domestic small grain soybeans 
+69	4114					極小粒大豆				Domestic little grain soybeans 
+69	4119					その他の国内産普通大豆				Other domestic soybeans 
+69	412				外国産普通大豆					Foreign ordinary soybeans 
+69	4121					大粒大豆				Foreign big grain soybeans 
+69	4122					中粒大豆				Foreign middle grain soybeans 
+69	4123					小粒大豆				Foreign small grain soybeans 
+69	4124					極小粒大豆				Foreign little grain soybeans 
+69	4129					その他の外国産普通大豆				Other foreign soybeans 
+69	42			小豆						"""Azuki"" beans "
+69	421				大納言小豆					"""Dainagon"" "
+69	422				普通小豆					"Common ""azuki"" beans "
+69	429				その他の小豆					"Other ""azuki"" beans "
+69	43			いんげん						Kidney beans 
+69	431				うずら					"""Uzura"" "
+69	4311					中長うずら				"""Chunagauzura"" "
+69	4319					その他のうずら				Other uzura 
+69	432				手亡					"""Tebo"" "
+69	4321					大手亡				"""Otebo"" "
+69	4322					姫手亡				"""Himetebo"" "
+69	4329					その他の手亡				"Other ""Tebo"" "
+69	433				金時					"""Kintoki"" "
+69	4331					北海金時				"""Hokkaikintoki"" "
+69	4332					大正金時				"""Taishokintoki"" "
+69	4333					大正白金時				"""Taisho-shirokintoki"" "
+69	4334					福白金時				"""Fukushirokintoki"" "
+69	4339					その他の金時				"Other ""Kintoki"" "
+69	434				とら豆					"""Toramame"" "
+69	435				白花豆					"""Shirohanamame"" "
+69	436				大福					"""Ofuku"" "
+69	439				その他のいんげん					Other kidney beans Peas 
+69	44			えんどう						Peas  
+69	441				青えんどう					Green peas 
+69	442				赤えんどう					Red peas 
+69	449				その他のえんどう					Other peas 
+69	45			ささげ						Cowpeas (viyma sinensis) 
+69	451				金時ささげ					"""Kintoki"" cowpeas "
+69	459				その他のささげ					Other cowpeas 
+69	46			そら豆						Broad beans 
+69	461				大粒そら豆					Big grain broad beans 
+69	4611					一寸そら豆				"""Issun"" broad beans "
+69	4619					その他の大粒そら豆（おたふくを含む。）				"Other big grain broad beans (including ""otafuku"") "
+69	462				小粒そら豆					Small grain broad beans 
+69	47			緑豆						Mung beans 
+69	471				緑色緑豆					Green mung beans 
+69	472				白色緑豆					White mung beans 
+69	479				その他の緑豆					Other mung beans 
+69	48			落花生						Peanuts 
+69	481				大粒落花生					Big grain peanuts 
+69	4811					大粒落花生さやみ				Big grain peanuts in shell 
+69	4812					大粒落花生むきみ				"Big grain peanuts, shelled "
+69	482				小粒落花生					Small grain peanuts 
+69	4821					小粒落花生さやみ				Small grain peanuts in shell 
+69	4822					小粒落花生むきみ				"Small grain peanuts, "
+69	489				その他の落花生					Other peanuts 
+69	49			その他の豆類（ライマ及びはっしょう豆を含む。）						"Other pulses (including lima beans, “hasshomame"")... "
+69	5		粉類（雑粉，豆粉，いも粉等を含む。）							"Flour (including cereal flour, pulse flour and sweet potato flour) "
+69	51			米粉（白玉粉及びみじん粉を含む。）						"Rice flour (including ""shiratamako"", ""mijinko"") "
+69	511				うるち米粉					Nonglutinous rice flour 
+69	5111					上新粉				"""Joshinko"" "
+69	5119					その他のうるち米粉				Other nonglutinous rice flour 
+69	512				もち米粉					Glutinous rice flour. 
+69	5121					白玉粉				"""Shiratamako"" "
+69	5122					もち粉				"""Mochiko"" "
+69	5123					寒梅粉				"""Kanbaiko"" "
+69	5124					みじん粉				"'Mijinko"" "
+69	5129					その他のもち米粉				Other glutinous rice flour 
+69	52			小麦粉						Wheat flour 
+69	521				強力小麦粉					Strong wheat flour 
+69	522				準強力小麦粉					Mellower strong wheat flour 
+69	523				薄力小麦粉					Weak wheat flour 
+69	524				普通小麦粉					Filler wheat flour 
+69	525				デュラムセモリナ					Durum wheat flour 
+69	529				その他の小麦粉					Other wheat flour 
+69	5291					特殊小麦粉				Clear wheat flour 
+69	5299					他に分類されない小麦粉				"Wheat flour, n.e.c. "
+69	53			雑穀粉						"Cereal flour, except rice flour and wheat flour "
+69	531				とうもろこし粉					Corn flour 
+69	5311					コーンブリッツ				Corn grits 
+69	5312					コーンミール				Corn meal 
+69	5313					コーンフラワー				Corn flour 
+69	5319					その他のとうもろこし粉				Other corn flour 
+69	532				そば粉					Buck wheat flour 
+69	539				その他の雑穀粉					Other cereal flour 
+69	54			豆粉						Pulse flour
+69	541				大豆粉					 Soybean flour 
+69	542				あずき粉					"""Azuki"" bean flour "
+69	543				いんげん豆粉					Kidney bean flour 
+69	549				その他の豆粉					Other pulse flour 
+69	55			いも粉（かんしょ（甘薯）粉）						Sweet potato flour 
+69	56			調整雑粉						Prepared flour 
+69	561				プレミックス類					Pre-mixed flour 
+69	5611					パン類ミックス				Pre-mixed flour for bread 
+69	5612					ケーキ類ミックス				Pre-mixed flour for cake 
+69	5613					調理用ミックス				Pre-mixed flour for cooking 
+69	5619					その他のプレミックス類				Other pre-mixed flour 
+69	569				その他の調整穀粉					Other prepared flour 
+69	59			その他の粉類						Other flour 
+69	591				こんにゃく粉					Ilisilis flour 
+69	5911					こんにゃく荒粉				"Ilisilis flour, processed "
+69	5912					こんにゃく精粉				"Ilisilis flour, unprocessed "
+69	599				他に分類されない粉類					"Flour, n.e.c. "
+69	6		でん粉							Starch 
+69	61			小麦でん粉						Wheat starch 
+69	62			とうもろこしでん粉						Corn starch 
+69	63			甘しょでん粉						Sweet potato starch 
+69	631				甘しょ生でん粉					Sweet potato starch (raw) 
+69	632				甘しょ並でん粉					Sweet potato starch (common) 
+69	633				甘しょさらしでん粉					Sweet potato starch (bleached) 
+69	64			馬鈴しょでん粉						White potato starch 
+69	641				馬鈴しょ生でん粉					White potato starch (raw) 
+69	642				馬鈴しょ未粉でん粉					White potato starch (lump) 
+69	643				馬鈴しょ精製でん粉					White potato starch (powder) 
+69	644				馬鈴しょ二番粉でん粉					Low grade potato starch (lump) 
+69	645				馬鈴しょ二番粉でん粉製粉					Low grade potato starch (powder) 
+69	65			タピオカでん粉（マニオカでん粉及びキャッサバでん粉）						Tapioka starch 
+69	66			サゴでん粉						Sago starch 
+69	69			その他のでん粉						Other starch 
+69	7		野菜							Vegetables 
+69	71			根菜類						Root vegetables 
+69	7101					だいこん				Japanese radishes 
+69	71011						だいこん			"""Daikon"" "
+69	71012						こうしんだいこん			"""Koushin-daikon' "
+69	71013						あおながだいこん			"""Aonaga-daikon"" "
+69	71014						べにまるだいこん			"""Benimaru-daikon "
+69	71015						べにながだいこん			"""Beninaga-daikon"" "
+69	7102					かぶ				Turnips 
+69	7103					にんじん				Carrots 
+69	71031						西洋にんじん			"""Seiyo-ningin"" "
+69	71032						金時にんじん			"""Kintoki-ningin"" "
+69	7104					ごぼう				Edible burdocks 
+69	71041						ごぼう			"""Gobo"" "
+69	71042						葉ごぼう			"""Ha-gobo"" "
+69	7105					れんこん				Lotus roots 
+69	7106					かんしょ				Sweet potatoes 
+69	7107					馬鈴しょ				Potatoes (Irish potato) 
+69	71071						メークイン			"""May queen"" "
+69	71072						男爵			"'Danshaku"" "
+69	71079						その他の馬鈴しょ			Other potatoes 
+69	7108					さといも				Taros (Dasheen) 
+69	71081						さといも			"""Sato-imo"" "
+69	71082						セレベス			"""Serebes"" "
+69	71083						京いも			"""Kyo-imo"" "
+69	71084						やつがしら			"""Yathugashira""- "
+69	71085						えびいも			"""Ebi-imo"" "
+69	71086						えぐいも			"""Egu-imo"" "
+69	71087						はすいも			"""Hasu-imo"" "
+69	7111					やまのいも				Yams 
+69	71111						ながいも			"""Naga-imo"" "
+69	71112						やまといも			"""Yamato-imo"" "
+69	71119						その他のやまのいも			Other yams 
+69	7112					くわい				Arrowhead 
+69	7199					その他の根菜類				Other root vegetables 
+69	71991						ラディッシュ			Radishes 
+69	71992						食用ゆり			"Lily bulbs, edible "
+69	71993						ビーツ			Table beets 
+69	71994						ちょろぎ			Chinese artichokes 
+69	71995						セルリアク			Celeriacs 
+69	71999						他に分類されない根菜類			"Root vegetables, n.e.c. "
+69	72			葉茎菜類						Leaf and stem vegetables 
+69	7201					はくさい				Chinese cabbagees 
+69	72011						はくさい			"""Hakusai"" "
+69	72012						たけのこはくさい			"""Takenoko-hakusai"" "
+69	7202					たけのこ				Bamboo shoots 
+69	7203					さんとうさい				"'Santosai"" "
+69	7204					こまつな				"“Komatsuna"" "
+69	7205					つけな類				"""Tsukena"" group "
+69	72051						きょうな			"“Kyona"" "
+69	72052						みぶな			"“Mibuna"" "
+69	72053						のざわな			"""Nozawana"" "
+69	72059						その他のつけな類			"Other ""Tsukena"" group "
+69	7206					からしな類				Leaf mustard group 
+69	72061						からしな			"“Karashina"" "
+69	72062						たかな			"""Takana"" "
+69	72069						その他のからしな類			Other leaf mustard group 
+69	7207					キャベツ類				Cabbage group 
+69	72071						キャベツ			Cabbage 
+69	72072						グリーンボール			Green balls 
+69	72073						レッドキャベツ			Red cabbage 
+69	72074						芽キャベツ			Brussels sprouts 
+69	7208					つまみな				"""Tusmamina"" "
+69	7211					チンゲンサイ				"""Chingensai"" "
+69	7212					ほうれんそう				Spinaches 
+69	7213					ふき				Japanese butterburs 
+69	72131						ふき			"""Fuki"" "
+69	72132						つわぶき			"""Tsuwabuki"" "
+69	72133						ふきのとう			"""Fuki-noto"" "
+69	7214					うど				"""Udo"" "
+69	7215					みつば				“Mitsuba” 
+69	72151						根みつば			"""Ne-mitsuba "
+69	72152						切みつば			"""Kiri-mitsuba"" "
+69	72153						糸（青）みつば			“Ito (Ao)-mitsuba' 
+69	7216					しゅんぎく				Garland chrysanthemums 
+69	7217					せり				Water dropworts 
+69	7218					セルリー				Celeries 
+69	7221					アスパラガス				Asparaguses 
+69	7222					カリフラワー				Cauliflowers 
+69	7223					ブロッコリー				"Broccolies (Sprouting broccoli, Italian broccoli) "
+69	7224					レタス類				Lettuce group 
+69	72241						レタス			Head lettuce (crisphead type) 
+69	72242						リーフレタス			Leaf lettuce 
+69	72243						コスレタス			Cos lettuce 
+69	72244						ステムレタス			Stem lettuce 
+69	7225					サラダ菜				Head lettuce (butterhead type) 
+69	7226					ねぎ				Welsh onions 
+69	72261						白ねぎ			"""Shiro-negi' "
+69	72262						青ねぎ			"“Ao-negi"" "
+69	72263						こねぎ（めねぎを含む。）			"""Ko-negi (including ""Me-negi"") "
+69	7227					わけぎ				Tufted stone leek 
+69	7228					あさつき				Chives 
+69	7231					にら				Chinese chives 
+69	72311						にら			"""Nira"" "
+69	72312						花にら			"""Hana-nira"" "
+69	72313						黄にら			"""Ki-nira"": "
+69	7232					たまねぎ				Onions. 
+69	72321						たまねぎ			"""Tamanegi"" "
+69	72322						アーリーレッド			"“Early red"" "
+69	72323						ペコロス			"""Picolos"" "
+69	7233					にんにく				Garlics 
+69	72331						にんにく			"“Ninniku"" "
+69	72332						葉にんにく			“Ha-ninniku 
+69	72333						にんにくの芽			"""Ninniku-no-me' "
+69	7234					らっきょう				"""Rakkyo"" "
+69	72341						らっきょう			"""Rakkyo"" "
+69	72342						エシャレット			"""Esharot"" "
+69	7235					もやし				"“Moyashi"", bean sprouts "
+69	72351						大豆もやし			"""Daizu-moyashi"" "
+69	72359						その他のもやし			Other bean sprouts 
+69	7299					その他の葉茎菜類				Other leaf and stem vegetables 
+69	729901							なばな		"""Nabana "
+69	729902							タアサイ		"""Taasai"". "
+69	729903							パクチョイ		"""Paku choi"" "
+69	729904							つるむらさき		Malabar nightshades (Malabar spinach) 
+69	729905							エンダイブ		Endive (Escarole) 
+69	729906							チコリー		Chicories 
+69	729907							おかひじき		Saltwort 
+69	729908							コンサイタイ		"""Kosaitai"" "
+69	729911							サイシン		"""Saisin"" "
+69	729912							あしたば		"Asitaba"" "
+69	729913							エンサイ		Water convolvulus 
+69	729914							カイラン		"""Kairan"" "
+69	729915							キンサイ		"""Kinsai"" "
+69	729916							コウサイ		"""Kosai"" "
+69	729917							コールラビ		Kohlrabi 
+69	729918							食用なずな		Shepherd's purse 
+69	729921							じゅんさい		Water shield 
+69	729922							セリホン		"""Serihon"" "
+69	729923							ひゆな		Edible amaranthus 
+69	729924							フェンネル		Fennels 
+69	729925							ふだんそう		Chards (Swiss chard) 
+69	729926							まこも		Indian rice (Water rice) 
+69	729927							モロヘイヤ		Jew's mallows 
+69	729928							ルバーブ		Rubarbs 
+69	729931							リーキ		Leeks 
+69	72999						他に分類されない葉茎菜類			"Leaf and stem vegetables, n.e.c. "
+69	73			果菜類						Fruit vegetables 
+69	7301					きゅうり				Cucumbers 
+69	73011						きゅうり			"""Kyuri"" "
+69	73012						もろきゅうり			"“Moro-kyuri"" "
+69	73013						花まるきゅうり			"“Hanamaru-kyuri"" "
+69	7302					しろうり				Oriental pickling melons 
+69	7303					かぼちゃ				Pumpkins 
+69	73031						かぼちゃ			Pumpkins 
+69	73032						ズッキーニ			Zucchini 
+69	7304					なす				Egg plants 
+69	73041						なす			"""Nasu"" "
+69	73042						小なす			"""Ko-nasu "
+69	73043						べいなす			"""Bei-nasu"" "
+69	7305					トマト				Tomatoes 
+69	73051						トマト			Tomatoes 
+69	73052						ミニトマト			Mini-tomatoes 
+69	7306					ピーマン				Bell peppers 
+69	7307					ししとうがらし				Sweet peppers 
+69	7308					スイートコーン				Sweet corns 
+69	7311					さやいんげん				Kidney beans (green pod) 
+69	7312					さやえんどう				Peas (green pod) 
+69	7313					スナップえんどう				Snap garden peas 
+69	7314					グリーンピース				Green peas 
+69	7315					そらまめ				Broad beans (green) 
+69	7316					えだまめ				Soybeans (green) 
+69	7399					その他の果菜類				Other fruit vegetables
+69	73991						オクラ			Okra 
+69	73992						とうがん			Wax gourd 
+69	73993						にがうり			Balsam pear 
+69	73994						はやとうり			Chayote 
+69	73995						へびうり			Snake gourd 
+69	73996						ひし			Water caltrops 
+69	73999						他に分類されない果菜類			"Fruit vegetables, n.e.c. "
+69	74			香辛野菜およびつまもの類						Savory herbs and garnishes 
+69	7401					わさび				"""Wasabi"" "
+69	7402					しょうが				Gingers 
+69	74021						根しょうが			"""Ne-shoga"" "
+69	74022						葉しょうが			"""Ha-shoga"" "
+69	7403					とうがらし				Peppers (Red pepper) 
+69	7404					め類				"""Me"" group "
+69	74041						きのめ			"""Kino-me"" "
+69	74042						紅たで			"""Benitade"" "
+69	74049						その他のめ類			"Other “Me"" group "
+69	7405					しそ				Perillas 
+69	74051						おおば			"""Ooba"" "
+69	74052						ほじそ			"""Hojiso"" "
+69	74059						その他のしそ			Other perillas 
+69	7406					かいわれだいこん				"""Kaiwaredaikon "" "
+69	7407					みょうが				"""Myoga"" (Japanese ginger) "
+69	74071						花みょうが			"“Hana-myoga"" "
+69	74072						みょうがたけ			"""Myoga-take"" "
+69	7408					クレソン				Watercress 
+69	7411					パセリ				Parsley 
+69	7412					うめ				"""Ume"" (Japanese apricot) "
+69	74121						うめ			"""Ume"" "
+69	74122						こうめ			"""Ko-ume"" "
+69	7413					ゆず類				"""Yuzu"" group "
+69	74131						ゆず			"""Yuzu"" "
+69	74132						だいだい			"""Daidai' "
+69	74133						すだち			"“Sudachi"" "
+69	74134						ゆこう			"""Yuko"" "
+69	74135						かぼす			"""Kabosu"" "
+69	7499					その他の香辛野菜及びつまもの類				Other savory herbs and garnishes 
+69	74991						はまぼうふう			"""Hamabofu"" "
+69	74992						食用ぎく			Edible chrysanthemums 
+69	74999						他に分類されない香辛野菜及びつまもの類			"Savory herbs and garnishes, n.e.c. "
+69	75			カット野菜						Cut vegetables 
+69	751				ごぼう					Edible burdock 
+69	752				にんじん					Carrots 
+69	753				キャベツ					Cabbage 
+69	754				レタス					Lettuce 
+69	759				その他のカット野菜					Other cut vegetables 
+69	76			きのこ類						Mashrooms group 
+69	761				生しいたけ					"""Shiitake"" mashrooms "
+69	762				まつたけ					"""Matsutake"" mashrooms "
+69	763				なめこ					"""Nameko"" mashrooms "
+69	764				えのきたけ					"""Enokitake"" mashrooms "
+69	765				ひらたけ					"“Hiratake"" mashrooms "
+69	766				しろたもぎたけ					"“Shirotamogitake"" mashrooms "
+69	769				その他のきのこ類					Other mashrooms group 
+69	7691					しめじ				"“Shimeji"" mashrooms "
+69	7692					マッシュルーム				French mashrooms 
+69	7693					ひらたけ				"""Hiratake"" mashrooms "
+69	7694					きくらげ				Jew's ear 
+69	7695					まいたけ				"""Maitake"" mashrooms "
+69	7699					他に分類されないきのこ類				"Mashrooms, n.e.c. "
+69	77			山菜類						"“Sansai"" group. "
+69	771				わらび					Brakes 
+69	772				ぜんまい					Ostrich ferris 
+69	779				その他の山菜類					"Other ""sansai"" group "
+69	7791					山ごぼう				"""Yamagobo"" "
+69	7799					他に分類されない山菜類				"“Sansai"" group, n.e.c. "
+69	78			果実的野菜						Fruity vegetables 
+69	781				いちご					Strawberries 
+69	7811					女峰				"""Nyoho"" "
+69	7812					とよの香				"""Toyonoka"" "
+69	7813					ダナー				Donner 
+69	7814					麗紅				"""Reiko"" "
+69	7819					その他のいちご				Other strawberries. 
+69	782				温室メロン					Melons (greenhouse melon) 
+69	7821					アールス				Earles 
+69	7822					ハネデュー				Honey dew 
+69	7829					その他の温室メロン				Other melons (greenhouse melon) 
+69	783				露地メロン（ハウスメロンを含む。）					Melon (except greenhouse melon) 
+69	7831					アンデス				"""Andes"" "
+69	7832					アムス				"""Ams"" "
+69	7833					夕張キング				"""Yubariking"" "
+69	7834					プリンス				"""Prince"": "
+69	7835					パパイヤ				"""Papaiya"" "
+69	7839					その他の露地メロン				Other melons (except greenhouse melon) 
+69	784				すいか					Water melons 
+69	7841					すいか				"""Suika"" "
+69	7842					小玉すいか				"“Kodamasuika"" "
+69	789				他に分類されない果実的野菜					"Fruity vegetables, n.e.c.. "
+69	79			その他の野菜						Other vegetables 
+69	8		果実							Fruits 
+69	81			かんきつ類						Citrus fruits 
+69	811				うんしゅうみかん					Satsuma mandarins 
+69	8111					普通うんしゅう				Common satsuma 
+69	8112					早生うんしゅう				Early satsuma 
+69	812				中晩かん					"""Chubankan"" "
+69	8121					普通なつみかん				"""Natsudaidai"" (common) "
+69	8122					甘なつみかん				"""Natsudaidai"" (sweeter) "
+69	8123					はっさく				"""Hassaku"" "
+69	8124					いよかん				"""Iyokan"" "
+69	8125					ネーブルオレンジ				Navel oranges 
+69	8126					バレンシアオレンジ				Valencia oranges 
+69	813				その他の中晩かん					"Other ""chubankan' "
+69	8131					ポンカン				"""Ponkan"" mandarins "
+69	8132					清見				“Kiyomi* 
+69	8133					セミノール				"""Seminole"" "
+69	8134					ぶんたん				"""Buntan"" "
+69	8135					さんぼうかん				"""Sanbokan"" "
+69	8136					なるとかん				"""Narutokan"" "
+69	8137					日向夏				"""Hyuganatsu"" "
+69	8138					たんかん				"""Tankan"" "
+69	814				グレープフルーツ					Grape fruits 
+69	815				レモン					Lemons 
+69	816				きんかん					Kumquat 
+69	819				他に分類されないかんきつ類					"Citrus fruits, n.e.c. "
+69	82			仁果類（かんきつ類を除く。）						Kernel fruits (except citrus fruits) 
+69	821				りんご					Apples 
+69	82101						祝			American summer pearmain 
+69	82102						つがる			"""Tsugaru"" "
+69	82103						王林			"""Orin"" "
+69	82104						ゴールデンデリシャス			Golden delicious 
+69	82105						スターキングデリシャス			Starking delicious 
+69	82106						デリシャス			Delicious 
+69	82107						紅玉			Jonathan 
+69	82108						国光			"""Kokko"" (ralls janet) "
+69	82111						ジョナゴールド			"""Jonagold"" "
+69	82112						ふじ			"""Fuji"" "
+69	82113						陸奥			"""Mutsu"" "
+69	82114						世界一			"""Sekaiichi"" "
+69	82199						その他のりんご			Other apples 
+69	822				日本なし					Japanese pears 
+69	8221					長十郎				"""Chojuro"" "
+69	8222					幸水				"""Kosui"" "
+69	8223					新水				"""Shinsui"" "
+69	8224					豊水				"""Hosui"" "
+69	8225					廿十世紀				"""Nijuseiki"" "
+69	8226					新世紀				"""Shinseiki"" "
+69	8229					その他の日本なし（支那なしを含む。）				Other Japanese pears (including chinese pears) 
+69	823				西洋なし					Pear (Pyrus communis L.) 
+69	824				かき					"Japanese persimmons (""kaki"") "
+69	8241					富有				"""Fuyu"" "
+69	8242					次郎				"""Jiro"" "
+69	8243					西村早生				"""Nishimurawase"" "
+69	8244					平無核				"""Hiratanenashi"" "
+69	8249					その他のかき				Other Japanese persimmons 
+69	825				びわ					Loquats 
+69	8251					茂木				"""Mogi"" "
+69	8252					田中				"""Tanaka"" "
+69	8259					その他のびわ				Other loquats 
+69	829				その他の仁果類					Other kernel fruits (except citrus fruits).. 
+69	8291					ざくろ				Pomegranates 
+69	8292					まるめろ				Quinces 
+69	8293					かりん				Chinese quinces 
+69	8299					他に分類されない仁果類				"Kernel fruits (except citrus fruits), n.e.c. "
+69	83			核果類						Stone fruits 
+69	831				もも					Peaches 
+69	8311					砂子早生				"""Sunakowase"" "
+69	8312					倉方早生				"""Kurakatawase"" "
+69	8313					大久保				"'Ookubo"" "
+69	8314					白鳳				"""Hakuho"" "
+69	8315					白桃				"""Hakuto"" "
+69	8316					缶桃種				Canning peaches 
+69	8319					その他のもも				Other peaches 
+69	832				ネクタリン					Nectarines 
+69	833				すもも					Plums 
+69	834				おうとう					Cherries 
+69	835				うめ（６９７４１２）					Japanese apricots 
+69	839				その他の核果類					Other stone fruits 
+69	8391					あんず				Apricots 
+69	8392					なつめ				Jujubes 
+69	8399					他に分類されない核果類				"Stone fruits, n.e.c. "
+69	84			しょう果類（いちごを除く。）						Berries (except strawberries) 
+69	841				ぶどう					Grapes 
+69	8411					デラウエア				Delaware 
+69	8412					キャンベルアーリー				Cambell early 
+69	8413					ネオマスカット				Neo-muscat 
+69	8414					マスカットベリーＡ				Muscat bailey A 
+69	8415					甲州				"""Koshu"" "
+69	8416					巨峰				"""Kyoho"" "
+69	8417					マスカットオブアレキサンドリア				Muscat of Alexandria 
+69	8418					甲斐路				"""Kaiji"" "
+69	8419					その他のぶどう				Other grapes 
+69	849				その他のしょう果類（いちごを除く。）					Other berries (except strawberries) 
+69	8491					いちじく				Figs 
+69	8492					すぐり類				Gooseberries 
+69	8499					他に分類されないしょう果類				"Berries (except strawberries), n.e.c. "
+69	85			穀果類						Edible nuts 
+69	851				くり					Chestnuts 
+69	859				その他の穀果類					Other edible nuts 
+69	8591					くるみ				Walnuts 
+69	8592					ぎんなん				Gingko nuts 
+69	8593					アーモンド				Almonds 
+69	8594					カシューナッツ				Cashewnuts 
+69	8595					ピスタチオナット				Pistachios 
+69	8599					他に分類されない穀果類				"Edible nuts, n.e.c. "
+69	86			熱帯性及び亜熱帯性果実（別掲を除く。）						Tropical and sub-tropical fruits (except otherwise classified) 
+69	861				パインアップル					Pineapples 
+69	862				バナナ					Bananas 
+69	863				パパイヤ					Papayas 
+69	864				ポポー					Pawpaws 
+69	865				ライチー					Litchis 
+69	866				キウイフルーツ					Chinese gooseberries 
+69	867				マンゴー					Mangoes 
+69	868				アボカード					Avocados 
+69	869				その他の熱帯性及び亜熱帯性果実（別掲を除く。）					Other tropical and sub-tropical fruits (except otherwise classified) 
+69	89			その他の果実						Other fruits 
+69	9		その他の農産食品							"Other agricultural products, edible "
+69	91			糖料作物						Sugar crops 
+69	911				砂糖きび					Sugar canes 
+69	912				てんさい					Sugar beets 
+69	913				砂糖もろこし					Sweet sorgham 
+69	919				その他の糖料作物					Other sugar crops 
+69	92			こんにゃくいも						Elephant roots 
+69	93			未加工飲料作物						"Beverage crops, unprocessed "
+69	931				茶の葉					Tea leaves 
+69	9311					栽培茶の葉				Cultivated tea leaves 
+69	93111						被覆したもの			Snade tea leaves 
+69	93112						被覆しないもの			Usual tea leaves 
+69	93119						その他の栽培茶の葉			Other cultivated tea leaves 
+69	9312					自生茶（山茶）の葉				Wild tea leaves 
+69	9319					その他の茶の葉				Other tea leaves 
+69	932				コーヒー豆（生のもの）					Coffee beans (raw) 
+69	933				カカオ豆（生のもの）					Cocoa beans (raw) 
+69	939				その他の未加工飲料作物					Other beverage crops unprocessed 
+69	94			香辛料原料品						"Spices, crude (unground or unprocessed) "
+69	9401					とうがらし				Red-peppers 
+69	9402					からし（種実）				Mustards (seed) 
+69	9403					さんしょう（成熟種実）				Japanese peppers (ripe seed) 
+69	9404					けいひ（桂皮）				Cinnamon and cassia. 
+69	9405					こしょう（種実）				Peppers (seed). 
+69	9406					ちょうじ（丁子）				Cloves 
+69	9407					肉ずく				Nutmegs 
+69	9408					ういきょう（大ういきょう及びひめういきょうを含む。）				"Fennles (including ""oh-uikyo"" and ""hime-uikyo"") "
+69	9411					サフラン				Saffrons 
+69	9412					月桂葉				Laurel tree leaves 
+69	9499					その他の香辛料原料品				"Other spices, crude (unground or unprocessed) "
+69	95			砂糖						Sugar 
+69	951				分みつ糖					Centrifugal sugar 
+69	9511					粗糖				Raw sugar 
+69	9512					精製糖				Refined sugar 
+69	95121						上白糖			White soft sugar 
+69	95122						中白糖			Medium soft sugar 
+69	95123						三温糖			Brown soft sugar 
+69	95124						グラニュー糖			Refined granulated sugar 
+69	95125						白ざら糖			Confectioner granulated sugar 
+69	95126						中ざら糖			Yellow-granulated sugar 
+69	95127						液糖			Liquid sugar 
+69	95129						その他の精製糖			Other refined sugars 
+69	9513					耕地白糖（ビート糖）				Plantation white sugar (Beet sugar) 
+69	9514					加工糖				Processed sugar 
+69	95141						氷砂糖			Candy sugar 
+69	95142						角砂糖			Cube sugar 
+69	95143						粉砂糖			Powdered sugar 
+69	95144						顆粒糖			Granulated sugar 
+69	95149						その他の加工糖			Other processed sugars 
+69	9519					その他の分みつ糖				Other centrifugal sugars 
+69	952				含みつ糖					Uncentrifugal sugar 
+69	9521					黒砂糖				Brown sugar 
+69	9522					かえで糖				Maple sugar 
+69	9529					その他の含みつ糖				Other uncentrifugal sugars 
+69	96			糖みつ						Molasses 
+69	961				精製糖みつ					"Final molasses, refinery "
+69	962				甘薯糖みつ					"Final molasses, cane "
+69	963				てん菜糖みつ					"Final molasses, beet "
+69	969				その他の糖みつ					Other molasses 
+69	97			糖類						Sugars 
+69	971				水あめ					"Glucose syrup (“Mizuame"") "
+69	9711					酸糖化水あめ				Glucose syrup resolved by acid 
+69	9712					酸素糖化水あめ				Glucose syrup resolved by enzyme 
+69	9713					ハイマルトースシラップ				High maltose syrup 
+69	9714					麦芽水あめ				Malt syrup 
+69	9715					粉末水あめ				Dried glucose syrup 
+69	9719					その他の水あめ				Other glucose syrup Glucose 
+69	972				ぶどう糖					
+69	9721					無水結晶ぶどう糖				Dextrose anhydrous 
+69	9722					含水結晶ぶどう糖				Dextrose monohydrate 
+69	9723					精製ぶどう糖				Fine powdered glucose- 
+69	9724					液状ぶどう糖				Glucose syrup (liquid) 
+69	9729					その他のぶどう糖				Other glucose 
+69	973				異性化液糖					Isomerized glucose syrup 
+69	9731					ぶどう糖果糖液糖				"Isomerized glucose syrup, containing 50% or more by weight of fructose in sugar "
+69	9732					果糖ぶどう糖液糖				"Isomerized glucose syrup, containing less than 50% weight of fructose in sugar "
+69	9739					その他の異性化液糖				Other isomerized glucose syrup 
+69	979				その他の糖類					Other sugar 
+69	9791					果糖				Fructose 
+69	9792					麦芽糖				Maltose 
+69	9793					乳糖				Lactose 
+69	9799					他に分類されない糖類				"Sugars, n.e.c. "
+69	99			他に分類されない農産食品						"Agricultural material products, edible, n.e.c. "
+70		畜産食品								ANIMAL FOODS 
+70	1		生鮮肉類（冷蔵又は冷凍鮮肉をふくむが冷凍食品は除く。）							"Meat, fresh (including chilled or frozen fresh meat and excluding prepared frozen foods) "
+70	11			牛肉						Beef and veal 
+70	111				成牛肉					Beef 
+70	112				子牛肉					Veal 
+70	113				牛のくず肉					Meat offal of bovine animals 
+70	12			豚肉及びいのしし肉						Pork and boar meat 
+70	121				豚肉					Pork 
+70	122				いのしし肉					Boar meat 
+70	123				豚のくず肉					Meat offal of pigs 
+70	13			馬肉						Horse meat 
+70	14			めん羊肉						Mutton and lamb 
+70	141				成めん羊肉					Mutton 
+70	142				子めん羊肉					Lamb 
+70	143				めん羊のくず肉					Meat offal of sheep or lambs 
+70	15			やぎ肉						Goat and kid meat 
+70	151				成やぎ肉					Goat meat 
+70	152				子やぎ肉					Kid meat 
+70	16			うさぎ肉						Rabbit meat 
+70	17			家きん肉						Poultry meat 
+70	171				鶏肉					Chicken and broiler 
+70	1711					成鶏肉				Chicken 
+70	1712					ブロイラー				Broiler 
+70	179				その他の家きん肉					Other poultry meat 
+70	1791					七面鳥の肉				Turkey and excluding prepared frozen foods) 
+70	1799					他に分類されない家きん肉				"Poultry meat, n.e.c. "
+70	19			その他の生鮮肉類（冷蔵又は冷凍鮮肉を含むが冷凍食品は除く。）						Other fresh meat (including chilled or frozen fresh meat 
+70	191				内臓（製薬・工業用を除く。）					Organs (except those for manufacturing drugs for other industrial purposes) ..... 
+70	192				すじ（くず肉を含む。）					Other low-value meat (including trimmings) 
+70	199				他に分類されない生鮮肉（猟獣肉を含む。）					"Fresh meat, n.e.c. (including meat of game birds and animals) "
+70	2		乳							Milk 
+70	21			生乳						"Milk, unprocessed "
+70	22			生やぎ乳						"Nanny milk, unprocessed "
+70	29			その他の乳						Other milk 
+70	3		食用鳥卵							Market poultry eggs 
+70	31			鶏卵						Chicken eggs 
+70	32			あひるの卵						Duck eggs 
+70	33			うずらの卵						Quail eggs 
+70	39			その他の食用鳥卵						Other market poultry eggs 
+70	4		はちみつ							Honey 
+70	41			粗製はちみつ						Raw honey 
+70	42			精製はちみつ						Refined honey 
+70	43			ロイヤルゼリー（医薬用品を除く。）						Royal jelly (except for drugs) 
+70	9		その他の畜産食品（加工製品を除く。）							Other animal foods (except for prepared animal foods) 
+71		水産食品								SEA FOODS
+71	1		魚類（丸のもの，臓ふをぬいたもの，尾ひれをとったもの及び食用の生きた魚を含む。）							"Fishes (including round, gutted, cutting caudal fin and alive edible fishes) "
+71	11			淡水産魚類						Fresh water fishes 
+71	111				陸封生さけ・ます類					Landlocked salmons and trouts (Salmonidae sp.) 
+71	1111					かわます				Brook trout (Salvelinus fontinalis) 
+71	1112					にじます				Rainbow trout (Salmo gairdnii iredeus) 
+71	1113					ひめます				Red salmon (land locked type) (Oncorhynchus nerkavar. adnis) 
+71	1114					やまめ				Landlocked salmon (Oncorhynehus masou) 
+71	1115					いわな				"“Iwana"" mountain trout (Salvelinus pluvinus) "
+71	1119					その他の陸封性さけ・ます類				Other landlocked salmons and trouts (Salmonidae sp.).. 6 
+71	112				あゆ類					"Sweet smelts (Plecoplossue sp., Plecoglossidae) "
+71	1121					あゆ（生魚）				Sweet smelt or sweet fish (common) (P.altivelis) 
+71	1122					小あゆ				Sweet smelt (local small) (P.altivelis) 
+71	113				わかさぎ					"Pond smelt (Hypomesus olidus, Osmeridae) "
+71	114				しらうお					"Ice fish (Salangichthyis microdon, Salangidae) "
+71	115				こい・ふな類					Carps and crucian carps 
+71	1151					こい				Carp (Cyprinus carpio) 
+71	1152					ふな				Crucian carp (Carassius carassius) 
+71	1153					うぐい				"""Ugui"" minnow (Tribolodon hakonensis) "
+71	1154					おいかわ				"“Oikawa"" minnow (Zacco platypus) "
+71	116				どじょう類					Loaches (Cobitidae sp.) 
+71	117				うなぎ					"Eel (Anguilla japonica, Anguillidae) "
+71	119				その他の淡水産魚類					"Other fresh water fishes (fresh water, Cottidae, Siluridae, Gobiidae, Bagridae sp. etc.) "
+71	1191					かじか				"Sculpin (fresh water, Cottidae) "
+71	1192					なまず				Fresh water catfish (Parasilurus asotus) 
+71	1193					はぜ類				Gobies (Gobiidae sp.) 
+71	1199					他に分類されない淡水産魚類				"Fresh water fishes, n.e.c. (Bagridae sp. etc.) "
+71	12			さく河性さけ・ます類						Salmons and Lrouts (anadromous type) (Salmonidae sp.) 
+71	121				しろざけ					Red or sockeye salmon (Oncorhynchus nerka) 
+71	122				べにざけ					"Chum, dog or kera salmon (Oncorhynckus keta) "
+71	123				ぎんざけ					Silver or coho salmon (Oncorhynchus kisutsch) 
+71	124				ますのすけ					"Chinook, spring or king salmon (O. tschawytscha) "
+71	125				さくらます					Cherry salmon (O. masou) 
+71	126				からふとます					Pink or humpback salmon (0. gorbuscha) 
+71	129				その他のさく河性さけ・ます類					Other salmons and trouts (anadromous type) (Salmonidae sp.) 
+71	13			にしん・いわし類						"Herrings and sardines (Clupeidae, Dussumieriidae, Fngraulidae sp.) "
+71	131				にしん類					Herrings (Clupea sp. Clupeidae) 
+71	1311					にしん				Herring (Clupea pallasi) 
+71	1319					その他のにしん類				Other herrings (Clupea sp.) 
+71	132				いわし類					"Sardines (Dussumieriidae, Clupeidae, except Clupea sp., Engraulidae sp.) "
+71	1321					まいわし				Sardine (Sardinia melanosticta) 
+71	1322					かたくちいわし				Anchovy (Engraulis japonica) 
+71	1323					うるめいわし				Round herring (Etrumeus micropus) 
+71	1324					しらす				"Post larvae (Engraulis japonica, larvae) "
+71	1325					きびなご				Pond herring (Stolephorus japonicus) 
+71	1329					その他のいわし類				"Other sardines (Dussmieriidae, Clupeidae, Engraulidae sp.).. "
+71	14			かつお・まぐろ・さば類						"Skipjacks, tunas and mackerels (Scombridae, Histiophoridae, Xiphiidae, Trichiuridae, Acinaceidse, Lepidopidae sp.). "
+71	141				かつお類					Skipjacks (Katsuwonnae sp.) 
+71	1411					かつお				Skipjack (Katsuwonus pelamis) 
+71	1412					そうだかつお				Frigate mackerels (Auxis sp.) 
+71	1419					その他のかつお類				"Other skipjacks (Katsuwonihae, Auxiinae sp.) "
+71	142				まぐろ類					Tunas (Thunnihae sp.) 
+71	1421					くろまぐろ				Bluefin tuna (Thynnus thynnus) 
+71	1422					みなみまぐろ				Southern bluefin tuna (Thunnus maccoyi) 
+71	1423					びんなが				Albacore (Thynnus alalunga) 
+71	1424					めばち				Big-eyed tuna (Parathunnus sibi) 
+71	1425					きわだ				Yellowfin tuna (Neothunnus macropterus) 
+71	1429					その他のまぐろ類				Other tunas (Thunninae sp.) 
+71	143				かじき類					Sword fishes (Hstiophoridae and Xiphiidae sp.) 
+71	1431					めかじき				Broadbill swordfish (Xiphias gladius) 
+71	1432					まかじき				Striped marlin (Makaira mitsukurii) 
+71	1433					くろかわかじき				Black marlin (Makaira mazara) 
+71	1434					しろかわかじき				White marlin (Makaira marlina) 
+71	1435					ばしょうかじき				Sail fish (Hstiophorus orientalis) 
+71	1439					その他のかじき類				Other sword fishes (Histipphoridae and Xiphiidae sp.) Mackerels (Scombridae sp.) 
+71	144				さば類					
+71	1441					まさば				Common mackerel (Scomber japonicus) 
+71	1442					ごまさば				Snake mackerel (S.tapeinocephalus) 
+71	1449					その他のさば類				Other mackerels (Scombrinea sp.) 
+71	149				その他のかつお・まぐろ・さば類					"Other skipjacks, tunas and mackerels (Cybiidae, "
+71	1491					さわら				"Spanish mackerel (Scomberomorus niphnius, including Cybiidae, Scomberomorinae sp.) "
+71	1492					たちうお				Hair tail (Trichiurus lepturus) 
+71	1499					他に分類されないかつお・まぐろ・さば類				"Skipjacks, tunas and mackerels, n.e.c. (Acinaceidae, Lepidopidae sp.) "
+71	15			あじ・ぶり・しいら類						"Jacks, yellow tails and dolphins (Coryphaenidae, Bramidae, Labracoglossidae, Stromateidae, Pampidae, Caranginae-Carangidae sp.) "
+71	151				あじ類					"Horse mackerels (Caranginae, Trachinotinae sp.) (Carangidae) "
+71	1511					まあじ				Jack mackerels (Trachurus sp. ) 
+71	1512					むろあじ類				Scads (Decapterus sp.) 
+71	1513					しまあじ類				Hardtails or yellow jacks (Caranx sp.) 
+71	1519					その他のあじ類				"Other horse mackerels (Carangidae, Trachinotidae sp.) "
+71	152				ぶり類					Yellowtails (Seriola sp. Carangidae) 
+71	1521					ぶり				Yellowtails (Seriola quinqueradiata) 
+71	1522					かんぱち				Amberjack (S. purpurascens) 
+71	1523					ひらまさ				Amberjack (S. aureovittata) 
+71	153				しいら類					Dolphins (Coryphaenidae sp.) 
+71	154				いぼだい類					"Butterfishes (Psenopsis sp., Poronotus sp.) "
+71	155				まながつお類					"Harvestfishes (Stromateus sp, Pampus sp.) "
+71	159				その他のあじ・ぶり・しいら類					"Other jacks, yellowtails and dolphins (Carangidae, Bramidae, Labracoglossidae, etc. sp.) "
+71	16			たら類						Cods (Gadidae coryphaenoididae sp.) 
+71	161				たら					"Cod (Gadus macrocephalus, Gadidae) "
+71	162				すけとうだら					"Alaska pollack (Theragra chalcogramma, Gadidae) "
+71	163				メルルーサ類					Common hakes (Merlucuus sp.) 
+71	169				その他のたら類					"Other cods (Gadidae, Coryphaenoididae sp.) "
+71	17			かれい・ひらめ類						"Teleostean flat fishes (Pleuronectidae, Cynoglossidae, Bathidae sp.) "
+71	171				かれい類					"Halibuts (Pleuronectidae, Cynoglossidae sp.) "
+71	17101						あぶらがれい			Arrow toothed halibut (Atherssthes evermanni) 
+71	17102						あかがれい			Flat-head flounder (Hippoglossoides dubius) 
+71	17103						そうはちがれい			"“Sohachi-garei"" (Cleisthenes pinetorum herzensteini).. "
+71	17104						むしがれい			Roundnose flounder (Eopsetta grigorijewi) 
+71	17105						まつかわがれい			"“Matsukawa-garei"" (Verasper moseri) "
+71	17106						めいたがれい			Frog flounder (Pleuronichthys cornutus) 
+71	17107						まがれい			Dab (Limanda herzensteini) 
+71	17108						あさばがれい			Rock flatfish (Lepidopsetta mochigarei) 
+71	17111						いしがれい			Stone flounder (Kareius bicoloratus) 
+71	17112						からすがれい			"""Karasu-garei"" (Rhenoplagusia japonica) "
+71	17113						うしのした			Tongue sole (Rhenopeagusia matsuurai japonica) 
+71	17114						おひょう			Halibut (Hippoglosus stenolepis) 
+71	17199						その他のかれい類			"Other halibuts (Pleuronectidae, Cynoglossidae sp.) "
+71	172				ひらめ類					Bastard halibuts (Bothidae sp. ) 
+71	1721					ひらめ				Bastard halibut (Paralichthys olivaceus) 
+71	1729					その他のひらめ類				Other bastard halibuts (Bothidae sp.) 
+71	18			すずき・たい・にべ類						"Sea basses, sea breams and croakers (Sparidae, Serranidae, Sciaenidae, Scorpaenidae sp.) "
+71	181				たい類					Sea breams (Sparidae sp.) 
+71	1811					まだい				Red sea bream (Chrysophrys major) 
+71	1812					ちだい				Crimson dai (Evynnis japonica) 
+71	1813					ひれこだい				Crimson sea bream (Argyrops cardinalis) 
+71	1814					きだい（れんこんだい）				Yellow sea bream (Taius tumifrons) 
+71	1815					くろだい				Black sea bream (Mylio macrocephalus) 
+71	1816					さくらだい				"Pongy, sea bream (Pagellus bellottii) "
+71	1817					きしまだい				Sea bream (Pagrus laniarius) 
+71	1818					すみれだい				Spanish bream (Pagellus acarne) 
+71	1819					その他のたい類				Other sea bream (Sparidae sp.) 
+71	182				すずき類					Sea basses (Serranidae sp.) 
+71	1821					すずき				Common sea basses (Lateolabrax japonicus) 
+71	1822					いさき				"“Isaki"" or striped pigfish (Parapristipoma trilimeatum) "
+71	1823					いとよりだい				Snapper (Nemipterus virgatus) 
+71	1829					その他のすずき類				Other sea basses (Serranidae sp. ) 
+71	183				にべ・ぐち類					Croakers (Sciaenidae sp.).... 
+71	1831					しろぐち（いしもち）				White croaker (Argyrosomus argentatus) 
+71	1832					くろぐち				Black croaker (A. nibe) 
+71	1833					きぐち				Yellow croaker (Pseudosciaena manchurica) 
+71	1839					その他のにべ・ぐち類				Other croakers (Sciaenidae sp.) 
+71	184				かさご・めばる類					Rock fishes (Scorpaenidae sp.) 
+71	1841					アラスカめぬけ				Pacific ocean perch (Sebastes alutus) 
+71	1842					きちじ				Rock fish (Sebastolobus macrochir) 
+71	1843					めぬけ類				Coral rock fishes (Sebastes Scorpaenidae sp.) 
+71	1844					あいなめ類				Rock trouts (Hexagrammidae sp.) 
+71	1849					その他のかさご・めばる類				Other rock fishes (Scorpaenedae sp.) 
+71	19			その他の魚類（丸のもの，臓ふを抜いたもの，尾ひれをとったもの及び食用の生きた魚を含む。）						"Other fishes (including round, gutted, cutting caudal fin and alive edible fishes) "
+71	191				さめ類					"Sharks (Heterodontidae, Alopiidae, Carcharhinidae, "
+71	1911					よりきざめ				"Sphyrinidae, Lamnidae, Cetcrhinidae, Squalidae, Pristiephoridae, sp. etc.) "
+71	1912					しゅもくざめ				"Great blue shark (Prionace glauca, Galeorhinidae) Hammer-head shark (Sphyrna zygaena, Sphyrnidae) "
+71	1913					あぶらつのざめ				"Dog fish (Squalus suckleyi, Squalidae) "
+71	1914					ねずみざめ				"Salmon shark (Lamna cornubica, Lamnidae) "
+71	1915					うばざめ（ばかざめ）				"Bashing shark (Cetorhinus maximus, Cetorhinidae) "
+71	1916					おながざめ				"Thresher shark (Alopias pelagicus, Alopiidae) "
+71	1917					ほしざめ				"Spotted shark (Mustolus manazo, Galeorhinidae) "
+71	1918					めじろざめ				Ground shark (Carcharhinus gangeticus) 
+71	1919					その他のさめ類				"Other sharks (Chlanydoselachidae, Heterodontidae, Garcharhinidae, Squalidae, Pristiophoridae, sp. etc.) "
+71	192				えい類					"Rays (Rhinobatidae, Torpedinidae, Platyrhinidae, Rajidae, Dasyatidae, Mobulidae sp.) "
+71	1921					あかえい				Whip ray (Dasyatis akajei) 
+71	1929					その他のえい類				"Other rays (Rhinobatidae, Torpedinidae, Platyrhinidae, "
+71	193				ぼら・かます類					"Mullets and barracudas (Mugilidae, Sphyraenidae sp.) "
+71	1931					ぼら類				Mullets (Mugilidae sp.) 
+71	1932					かます類				Barracudas (Sphyraeinidae sp.) 
+71	194				さんま					"Saury pike (Cololabis saira, Scombresocidae) "
+71	195				とびうお・さより類					"Flying fishes and halfbeaks (Exocoetidae, Hemiramphidae).. "
+71	1951					とびうお類				Flying fishes (Exocoetidae sp.) 
+71	1952					さより類				Halfbeaks (Hemeramphidae sp.) 
+71	196				ほっけ					"Atka mackerel (Pleurogrammusazonus, Hexagrammredae).. "
+71	197				ほうぼう・かながしら類					"Gurnards and red gurnards (Triglidae, Peristediidae, Dactylopteridae sp.) "
+71	1971					ほうぼう類				Gurnards (Chelidornichthys kumu) 
+71	1972					かながしら類				Red gurnards (Lepidotriyla sp.) 
+71	198				いかなご					"Sand lance (Ammodytes personatus, Ammodytidae).. "
+71	199				他に分類されない魚類（丸のもの，臓ふを抜いたもの，尾ひれをとったもの及び食用の生きた魚を含む。）					"Marine fishes, n.e.c. (including round, gutted, cutting caudal fin and alive edible fishes) "
+71	1991					あなご・はも類				"Conger eels and sharp toothed eels (Congridae, Muraenesocidae sp.) "
+71	19911						あなご類			Conger eels (Congridae) 
+71	19912						はも類			Sharp toothed eels (Muraenesocidae sp.) 
+71	1992					ふぐ・かわはぎ類				"Globefishes and filefishes (Ostraciidae, Tetraodontidae, Diodontidae, Motidae sp.) "
+71	19921						ふぐ類			Globefishes 
+71	19922						かわはぎ類			Filefishes 
+71	1993					はたはた類				Sand fishes (Trichodontidae sp. ) 
+71	1994					えそ類				"Lazard fishes (Saurida sp., Synodontidae) "
+71	1995					にぎす類				"Deep sea smelts (Argentina sp., Argentinidae) "
+71	1996					きす類				"Sand borers (Sillago sp., Sillaginidae) "
+71	1997					あまだい類				"Blanquillos (Branchlostegus sp., Branchiostegidae) "
+71	1998					あんこう類				Frogfishes (Lophiidae sp.) 
+71	1999					他に分類されないその他の魚類（丸のもの，臓ふを抜いたもの，尾ひれをとったもの及び食用の生きた魚を含む。）				"Other marine fishes, n.e.c. (including round, gutted, cutting caudal fin and alive edible fishes) "
+71	2		貝類							Shelled molluscas 
+71	21			しじみ・たにし類						"Fresh water clams and fresh water snails (Corbiculidae, Viviparidae sp. etc.) "
+71	211				しじみ類					Fresh water clams 
+71	212				たにし類					Fresh water snails 
+71	22			かき類						Oysters (Ostreidae sp.) 
+71	221				まがき					Common oyster (Ostrea laperousei) 
+71	222				いたほがき					Oyster (O.denselamellosa) 
+71	229				その他のかき類					Other oysters (Ostreidae sp.) 
+71	23			いたやがい類						Scallops (Pectinidae sp.) 
+71	231				ほたてがい					"Common scallop (Pecten yessoensis, Pectinidae) "
+71	232				いたやがい					Bay scallop (Pecten laqueatus) 
+71	233				たいらぎ					Fan shell (Atrina pectinata) 
+71	239				その他のいたやがい類					"Other scallops (Pectinidae sp.) (except common scallop) (Pecten yessoensis, Pectinidae) "
+71	24			あかがい・もがい類						Ark shells (Arcidae sp. ) 
+71	25			はまぐり・あさり類						Hard clams and little neck clams (Veneridae sp.) 
+71	251				はまぐり類					Hard clams (Meretrix meretrix) 
+71	252				あさり類					Little neck clams (Paphia philippinerum) 
+71	26			ばかがい類						Surf or hen clams (Mactridae sp.) 
+71	261				ばかがい					Surf clam (Mactra sulcataria) 
+71	262				しおふき					"“Shiofuki"" (Mactra veneriformis) "
+71	263				うばがい（ほっきがい）					Hen clam (Mactra veneriformis) 
+71	264				みるがい					"""Mirugai"" (Tresus keenal) "
+71	269				その他のばかがい類					Other hen clams (Mactridae) 
+71	27			あわび類						Abalones (Haliotidae sp.) .... 
+71	271				あわび					Common abalone (Haliotis gigantea) 
+71	272				とこぶし					"""Tokobushi"" (Haliotis japonica) "
+71	279				その他のあわび類					Other abalones (Haliotidae sp.) 
+71	28			さざえ類						Top shells (Turbinidae sp.) 
+71	29			その他の貝類						Other shelled molluscas 
+71	291				いがい類					Sea mussels (Mytilidae sp.) 
+71	292				まてがい類					Jackknife clams (Solenidae snd Sinovacula sp.) 
+71	293				とりがい類					Heart clams (Cardiinae sp.) 
+71	294				はいがい					Ivory shell (Buccinidae sp.) 
+71	299				他に分類されない貝類					"Shelled mollusca,n.e.c. (Unionidae, Myidae, Pholadidae, Trochidae, Viviparidae, Thiaridae, Potamididae, Naticidae, Cymatiidae, Muricidae, Buccinidae, Fasciolariidae sp. etc.) "
+71	3		水産動物類（魚類，貝類及び海産ほ乳類を除く。）							"Aquatic animals (except fin fishes, shelled mollusca and marine mammals) "
+71	31			いか類						"Cuttle fishes (Seppidae, Sepiolidae, Loliginiidae, Onychoteuthidae, Ommastrephidae, Enoploteuthidae, Symplectotheuthidae Thysanotheuthidal sp. etc.)"
+71	311				ほたるいか類					Toyama squids (Enoploteuthidae sp.)
+71	312				するめいか類					Squids (Ommastrephidas sp.) 
+71	313				やりいか類					"""Yari-ika"" (Loliginidae sp.) "
+71	3131					やりいか				"""Yari-ika"" (Loligo bleekeri) "
+71	3132					けんさきいか				Southern squid (Loligo kensaki) 
+71	3133					あおりいか				"""Aori-ika"" (Sepioteuthes lessoniana) "
+71	3139					その他のやりいか類				"Other ""yari-ika"" (Loliginidae sp.) "
+71	314				こういか類					"""Koo-ika"" (Sepiidae sp.) "
+71	3141					はりいか				"""Hari-ika"" (Sepia esculenta) "
+71	3142					しりやけいか（まいか）				"""Shiriyake-ika"" (""ma-ika"") (Sepiella maindroni) "
+71	3143					もんごういか				Common cuttlefish (Sepia subaculeata) 
+71	3149					その他のこういか類				"Other ""koo-ika"" (Sepiidae sp.) "
+71	319				その他のいか類					"Other cuttle fishes (Sepiolidae, Idiosepidae, Onychoteuthidae, Thysanotheuthidae sp. etc.) "
+71	3191					みみいか				"""Mimi-ika"" (Euprymna morsei, Sepiolidae) "
+71	3192					ひめいか				"“Hirne-ika"" (Idiosepidal sp.) "
+71	3193					つめいか				"Hokkaido squid (Onychoteuthis banksii, Onychoteuthidae) "
+71	3199					他に分類されないいか類				"Other cuttle fishes, n.e.c. (Sepiolidae, Onychotenthidae, Thysanotheuthidae sp.) "
+71	32			たこ類						"Octopus (Polypodidae, Argonautidae sp.etc.) "
+71	321				まだこ					Common octopus (Polypus vulgaris) 
+71	322				いいだこ					"""li-dako"" (P. fangsiao) "
+71	323				みずだこ					"""Mizu-dako"" (P. dofleini) "
+71	324				てながだこ（あしながだこ）					"""Tenaga-dako"" (P. variabils) "
+71	329				その他のたこ類					"Other octopus (Polypodidae, Argonautidae sp. etc.) "
+71	33			えび類（いせえび・ざりがに類を除く。）						"Shrimps and prawns (excluding lobsters and cray-fishes) (Penaeidae, Sergestidae, Pashiphaeidae, "
+71	331				くるまえび類					"Atyidae, Pandalidae, Alpheidae, Palaemonidae, Crangonidae sp.etc.) "
+71	3311					くるまえび				"Prawns or ""Kuruma-ebi"" (Penaeus sp., Penaeidae) "
+71	3312					ふとみぞえび				"Prawn or common shrimp (Penaeus japonicus) ""Hutomizo-ebi"" (P. latisulcatus) "
+71	3313					くまえび				"""Kuma-ebi"" (P. monodon) "
+71	3314					たいしょうえび				"""Taisho-ebi"" (P. ovientalis) "
+71	3319					その他のくるまえび類				Other prawns 
+71	332				しばえび類					"""Shiba-ebi"" (Fenaeopsis sp., Penaeidae) "
+71	3321					よしえび				"""Yoshi-ebi"" (Penaeopsis monoceros) "
+71	3322					しばえび				"""Shiba-ebi"" (P. joyneri) "
+71	3323					あかえび				"Aka-ebi"" (P. akaebi) "
+71	3324					とらえび				"""Tora-ebi"" (P. acclivis) "
+71	3329					その他のしばえび類				"Other ""Shiba-ebi"" (Penaeopsis sp.) "
+71	333				さくらえび類					Spotted shrimps (Sergestidae sp.) 
+71	3331					さくらえび				Spotted shrimp (Sergestes phosphoreus) 
+71	3339					その他のさくらえび類				Other spotted shrimps (Sergestidae sp.) 
+71	334				てながえび類					Fresh water shrimps (Palaemonidae sp.) 
+71	3341					てながえび				"""Tenaga-ebi"" (Macrobrachium nipponense) "
+71	3342					すじえび				"""Suji-ebi"" (Leander paucidens) "
+71	3349					その他のてながえび類				Other fresh water shrimps (Palaemonidae sp.) 
+71	335				小えび類					"Other prawns and shrimps (Penaeidae, Pasiphaeidae, Atyidae, Pandalidae, Alpheidae, Crangonidae sp. etc.) "
+71	3351					ほっかいえび				"""Hokkaido"" prawn (Pandalus platyceros, Pandalidae) "
+71	3352					てっぽうえび				"""Teppo-ebi"" (Alpheus brevicristatus, Alpheidae)"
+71	3353					ほっこくあかえび				"""Hokkokuakaebi"" "
+71	3359					その他の小えび類				"Other prawns and shrimps (Penaeidae, Pasiphaeldae, Atyidae, Pandalidae, Alpheidae, Crangenidae sp. etc.) "
+71	339				その他のえび類（いせえび・ざりがに類を除く。）					Other shrimps and prawns (excluding lobsters and cray-fishes) 
+71	34			いせえび・うちわえび・ざりがに類						"Lobsters, horse-shoe crubs and cray-fishes (Polinuridae, Scyllaridae, Potamobiidae sp. etc.) "
+71	341				いせえび類					Spiny lobsters (Palinuridae sp. ) 
+71	3411					いせえび				Spiny lobster (Palinurus japonicus) 
+71	3412					はこえび				"""Hako-ebi"" (Linuparus trigonus) "
+71	3419					その他のいせえび類				Other spiny lobsters (Palinuridae sp.) 
+71	342				うちわえび類					Horse-shoe crubs (Scyllaridae sp.) 
+71	343				ざりがに類					Cray-fishes (Potamobiidae sp.) 
+71	35			かに類						"Crabs (Lithodidae, Homolidae, Dorippidae, Calappidae, Leucosiidae, Rrninidae, Majidae, Portunidae, Atolecyclidae, Potamonidae, Pseudorhombilinae, Ocypodidae, Grapsidae sp. etc.) "
+71	351				いばらがに類					"“Ibara-gani"" (Lithodidae sp.) "
+71	3511					たらばがに				King crab (Paralithodes camtschaticus) 
+71	3512					はなさきがに				"""Hanasaki-gani"" (Paralithodes bravipes) "
+71	3513					あぶらがに				"'Abura-gani"" "
+71	352				くもがに類					"""Kumo-gani"". (Majidae sp.) "
+71	3521					ずわいがに				"""Zuwai-gani"" (Chionocetes opilis) "
+71	3522					たかあしがに				Spider crabs (Macrocheira kaempferi) 
+71	353				わたりがに類					"""Watari-gani"" (Portunidae sp.) "
+71	3531					がざみ				Blue crab (Neptunus trituberculatus) 
+71	3532					いしがに				"“Ishi-gani"" (Charybdis japonica) "
+71	3533					ひらつめがに				"“Hiratsume-gani"" (Ovalipes punctatus) "
+71	3539					その他のわたりがに類				"Other ""watari-gani"" "
+71	354				くりがに類					"""Kuri-gani"" (Atolecyclidae sp.) "
+71	3541					おおくりがに（けがに）				"""Ookuri-gani"" (""Ke-gani"") (Erimacrus isenbeckii) "
+71	3542					くりがに				"""Kuri-gani"" (Telmessus cheiragonus) "
+71	359				その他のかに類					"Other crabs (Homolidae, Dorippidae, Calappidae, Leucesiidae, Raninidae, Potamonidae, Pseudorhom-bilidae, Ocypodidae, Grapsidae sp. etc.) "
+71	36			その他の甲かく類						Other crustaceas 
+71	361				しゃこ類					Squillas (Squillidae sp.) 
+71	362				あみ類					Mysid shrimps (Mysidae sp.) 
+71	363				おきあみ類					Krills (Eaphausia sp.) 
+71	369				他に分類されない甲かく類					"Crustaceas, n.e.c. "
+71	37			うに・なまこ類						"Sea urchins and sea cucumbers (Diadematidae, Toxopneustidae, Temnopleuridae, Stichopodidae, Holothuriidae, Cucumariidae sp.) "
+71	371				うに類					"Sea urchins (Diadematidae, Toxopneustidae sp.) "
+71	3711					えぞばふんうに				"""Ezo"" horse-dung sea urchin (Strongylocent rotus tntermedius) "
+71	3712					きたむらさきうに				"""Kita"" purple sea urchin (S. nvdvs) "
+71	3713					むらさきうに				Purple sea urchin (Heliocidaris crassispina) 
+71	3714					ばふんうに				Horse-dung sea urchin (Strongylocentrotus pulcherrimus) 
+71	3715					あかうに				Red sea urchin (Pseudocentrotus depressus) 
+71	3719					その他のうに類				"Other sea urchins (Diadematidae, Toxopneustidae, Temnopleuridae sp.) "
+71	372				なまこ類					"Sea cucumbers (Stichopodidae, Holothuriidae sp.) "
+71	3721					なまこ				Sea cucumbers (Stichopus japonicus) 
+71	3722					くろほしなまこ				"""Kurohoshi-namako"" (Parastichopus nigripunctatus) "
+71	3729					その他のなまこ類				"Other sea cucumbers (Stichopodidae, Holothuriidae sp.) "
+71	373				きんこ類					Trepangs (Cucumariidae sp.) 
+71	38			かめ類						"Turtles (Cholonidae, Trionychidae, Testudinidae sp.)"
+71	381				すっぽん類					Snapping turtles (Trionychidae sp.) 
+71	3811					すっぽん				Fresh-water soft shell turtle (Amyda japonica) 
+71	3812					しなすっぽん				"Green turtle (Chelonia japonica, Chelonidae) "
+71	382				おおうみがめ					"""Shina-suppon"" (Amyda sinensis) "
+71	383				いしがめ類					Terrapins (Testudinidae sp.) 
+71	3831					まるかめ				"“Maru-game"" (Clemmys flavomarginata) "
+71	3839					その他のいしがめ類				Other terrapins (Testudinidae sp.) 
+71	39			その他の水産動物類						"Other aquatic animals (Ranidae, Cynthiidae, Styelidae, Rhizostomidae sp. etc.) "
+71	391				食用がえる類					Edible frogs (Ranidae sp.) 
+71	3911					うしがえる				Bull frog (Pana catesbiana) 
+71	3912					とのさまがえる				"""Tonosama"" frog (Rana escullenta) "
+71	3919					その他の食用がえる類				Other edible frogs (Rauidae sp.) 
+71	392				ほや類					"Sea squart (Cynthiidae, Styelidae sp.) "
+71	393				くらげ					Jelly fishes (Rhizostomidae sp.) 
+71	399				他に分類されない水産動物類					"Aquatic animals, n.e.c. "
+71	4		海産ほ乳動物類							Marine mammals 
+71	41			鯨						Whales 
+71	411				ひげ鯨類					Baleen whales 
+71	4111					いわし鯨				Sei whale 
+71	4112					ながす鯨				Fin whale 
+71	4113					いわし鯨（みんく鯨）				Minke whale 
+71	4119					その他のひげ鯨類				Other baleen whales 
+71	412				歯鯨類					Toothed whales 
+71	4121					まっこう鯨				Sperm whale 
+71	4122					しゃち鯨				Killer whale 
+71	4123					ごんどう鯨				Pilot whale 
+71	4129					その他の歯鯨類				Other toothed whales 
+71	413				つち鯨					Baird's beaked whale 
+71	42			いるか						Porpoise 
+71	421				いしいるか					Dall's porpoise 
+71	422				すじいるか					Blue-white porpoise. 
+71	423				まだらいるか					Bridled porpoise 
+71	429				その他のいるか					Other porpoise 
+71	49			その他の海産ほ乳動物類						Other marine mammals 
+71	5		海藻類							Sea weeds 
+71	51			こんぶ類						Tangles (Laminaria Kjellmaniella Arthlothamnus sp. Laminariacae) 
+71	511				まこんぶ					Japanese sea-tangle (Laminaria japonica) 
+71	512				りしりこんぶ					"“Rishiri-kombu"" (L.Ochotensis) "
+71	513				ほそめこんぶ					"""Hosome-kombu"" (L. religiosa) "
+71	514				ながこんぶ					"""Naga-kombu"" (L. longissima) "
+71	515				みついしこんぶ					Narrow leaved tangle (L. angustata) 
+71	516				とろろこんぶ					Kjellman's tangles (Kjellmaniella ayrata) 
+71	517				かじめ					"""Kajime"" (Kjellmaniella crassifalia) "
+71	518				ねこあしこんぶ					"""Nekoashi-kombu"" (Arthrothammus bifidus) "
+71	519				その他のこんぶ類					"Other tangles (Laminaria, Arthrothamuus sp. Laminarianceae) "
+71	52			わかめ類						"""Wakame"" (Undaria, Alaria, Ecklouiopsis sp. Laminariaceae) "
+71	521				なんぶわかめ					"""Nanbu-wakame"" (Undaria pinnatifida distans) "
+71	522				なるとわかめ					"“Naruto-wakame"" (Undaria pinnatifida narutensis) "
+71	523				ひろめ					"""Hirome"" (Undaria undarioides) "
+71	524				あいぬわかめ類					"""Ainu-wakame"" (Alaria sp.) "
+71	5241					ちかいそ				Japanese badderlocks (Alaria-crassifolia) 
+71	5242					あいぬわかめ				"Ainu-wakame"" (Alaria yezoensis) "
+71	529				その他のわかめ類					"Other “wakame"" (Undaria, Alaria, Eckloniopis sp., Laminariaceae) "
+71	53			のり類						"Lavers (Porphyra sp., Bangiaceae, Enteromorpha, Monestroma sp., Ulvaceae and Prasiola sp., Prasiolaceae) "
+71	531				あまのり類					Lavers (Porphyra sp.) 
+71	5311					あさくさのり				Purple laver (Porplyra tenara) 
+71	5312					まるばあまりのり（いわのり）				"""Maruba-amanori” (P. suborbiculata) "
+71	5313					くろのり				"“Kuronori"" (P. Okamurai) "
+71	5319					その他のあまのり類				Other lavers 
+71	532				あおのり類（ひとえぐさ及びかわのりを含む。）					"""Ao-nori"" group (including ""Hitoe-gusa"" Kawa-nori"") (Enteromorpha, Monostroma sp. Ulvaceae and Prasiola sp., Prasiolaceae) "
+71	5321					ぼうあおのり				"“Bo-aonori"" (Enteromorpha intestinalis) "
+71	5322					すじあおのり				"""Suji-aonori"" (E. prolifera) "
+71	5323					うすばあおのり				"""Usuba-aonori"" (E. Linza) "
+71	5329					その他のあおのり類				"Other ""ao-nori"" group (Entermorpha, Monostroma, sp., Ulvaceae and Prasiola sp., Prasiolaceae) "
+71	54			あおさ類						"Perforated sea lettuces (Ulva sp., Ulvaceae) "
+71	541				あなあおさ					Perforated sea lettuce (Ulva pertusa) 
+71	549				その他のあおさ類					Other perforated sea lettuces 
+71	55			寒天原草類						Seaweeds of a kind used for manufacturing agar-agar..121220 
+71	551				てんぐさ類					Agar-agars (Gelidiaceae sp.) 
+71	5511					てんぐさ				Agar-agar (Gelidium amonsii) 
+71	5512					おおぶさ				"""Obusa"" (G. pacificum) "
+71	5513					ひらくさ				"“Hira-kusa"" (G.subcostatum) "
+71	5514					ゆいきり（とりあし）				"""Yuikiri"" (""Toriashi"") (Acanthopeltis japonica) "
+71	5519					その他のてんぐさ類				Other agar-agras (Gelidiaceae sp.) 
+71	552				おごのり類					"False ceylon mosses (Gracilaria sp., Sphaerococcaceae) "
+71	5521					おごのり				Fales ceylon mosses (Gracilaria confervoides) 
+71	5529					その他のおごのり類				Other false ceylon mosses 
+71	553				いぎす類（いばらのりを含む。）					"“Igisu"" (including “ibaranori"") (Ceramium sp., Ceramiaceae and Hypnea sp., Sphaerococcaceae) "
+71	5531					いぎす				"""Igisu"" (Ceramium rubrum) "
+71	5532					あみくさ				"""Ami-kusa"" (Ceramium Coydeni) "
+71	5533					えごのり				"“Ego-nori"" (Ceramium Hypnaeoides) "
+71	5534					かずのいばら				"""Kazuno-ibara"" (Hypnea cervicornis) "
+71	559				その他の寒天原草類					Other seaweeds of a kind used for manufacturing agar-agar.
+71	5591					いたにそう				" ""Itani-so"" (Aknfeltia plicata) "
+71	5599					他に分類されない寒天原草類				"Seaweeds of a kind used for manufactuing agar-agar, n.e.c. "
+71	59			その他の海藻類						Other seaweeds. 
+71	591				ひじき類					"""Hijiki"" (Higikia sp. Sargassaceae) "
+71	592				みる類					Dichotomous sponge tangs (Codiaceae sp.) 
+71	593				あいも（藍そう）類					Brown sea-weeds (Cyanophyceae sp.) 
+71	5931					すいぜんじのり				"“Suizenji-nori"" (Phylloderma sacrum) "
+71	5932					じゅずも				Reed falling stars (Nostoe verrucosa) 
+71	594				ふくろのり類					"""Fukuro-nori"" (Encoeliaceae sp.) "
+71	595				もずく類					"“Mozuku"" (Chordariaceae sp.) "
+71	596				まつも類					"“Matsumo"" (Heterochordariacae sp.) "
+71	599				他に分類されない海藻類					"Seaweeds, n.e.c. "
+72		農産加工食品								PROCESSED AGRICULTURAL FOODS 
+72	1		野菜加工品							Processed vegetables 
+72	11			野菜かん・びん詰						"Vegetables, canned or bottled "
+72	111				たけのこかん・びん詰め					"Bamboo shoot, canned or bottled "
+72	1111					水煮				"Boiled bamboo shoot, canned or bottled "
+72	1112					味付け				"Seasoned bamboo shoot, canned or bottled "
+72	112				アスパラガスかん・びん詰					"Asparagus, canned or bottled "
+72	113				スイートコーンかん・びん詰					"Sweet corn, canned or bottled "
+72	1131					ホール				"Whole carnel corn, canned or bottled "
+72	1132					クリーム				"Cream style corn, canned or bottled "
+72	114				グリーンピースかん・びん詰					"Green peas, canned or bottled "
+72	115				ふきかん・びん詰					"Japanese butterbur, canned or bottled "
+72	116				野菜ジュース（トマトジュースを除く。）かん・びん詰					"Vegetable juices (except tomato), canned or bottled "
+72	117				山菜類かん・びん類					"“Sansai"" group, canned or bottled "
+72	1171					わらび				"Bracken, canned or bottled "
+72	1172					ぜんまい				"Ostrich ferns, canned or bottled "
+72	1179					その他の山菜類かん・びん詰				"Other “sansai"" group, canned or bottled "
+72	119				その他の野菜かん・びん詰					"Other vegetables, canned or bottled "
+72	1191					野菜スープ				"Vegetables soups, canned or bottled "
+72	1199					他に分類されない野菜かん・びん詰				"Vegetables, canned or bottled, "
+72	12			トマト加工品						Processed tomatoes 
+72	121				トマトジュース類					Tomato juice 
+72	1211					トマトジュース				Tomato juice 
+72	1212					トマトミックスジュース				Mixed tomato juice 
+72	1219					その他のトマトジュース類				Other tomato juice 
+72	122				トマトピューレ					Tomato puree 
+72	123				トマトペースト					Tomato paste 
+72	124				トマトケチャップ					Tomato ketchup 
+72	125				トマトソース					Tomato sauce 
+72	126				チリソース					Chili sauce 
+72	127				トマト缶詰					Canned tomatoes 
+72	128				トマトパウダー					Powdered tomatoes 
+72	129				その他のトマト加工品					Other processed tomatoes 
+72	13			きのこ類加工品						Processed mushrooms group 
+72	131				きのこ類かん・びん詰					"Mushrooms, canned or bottled "
+72	1311					マッシュルーム				"Fresh mushrooms, canned or bottled "
+72	1312					えのきたけ				"""Enokitake"" mushroom, canned or bottled "
+72	1313					なめこ				"""Nameko"" mushroom, canned or bottled "
+72	1314					しいたけ				"""Shiitake"" mushroom, canned or bottled "
+72	1315					まつたけ				"""Matsutake"" rushroom, canned or bottled "
+72	1319					その他のきのこ類かん・びん詰				"Other mushrooms, canned or bottled "
+72	132				乾燥きのこ類					"Dehydrated mushrooms, group "
+72	1321					しいたけ				"Dehydrated “shiitake"" "
+72	13211						どんこ			"""Donko"" "
+72	13212						こうしん			"""Koshin' "
+72	13213						花どんこ			"*Hanadonko"" "
+72	13214						こうこ			"""Kouko"" "
+72	13215						小粒どんこ			"“Kotsubu Donko"" "
+72	13219						その他のしいたけ			"Other dehydrated ""shiitake"" "
+72	1322					きくらげ				Dehydrated jew's ear 
+72	1329					その他の乾燥きのこ類				Other dehydrated mushrooms group 
+72	139				その他のきのこ類加工品					Other processed mushrooms group 
+72	14			塩蔵野菜（つけ物を除く。）						Salt storage vegetables (except pickles) 
+72	141				塩蔵きゅうり					Salt storage cucumbers 
+72	142				塩蔵だいこん					Salt storage Japanese radishes 
+72	143				塩蔵しょうが					Salt storage gingers 
+72	144				塩蔵らっきょう					"Salt storage ""Rakkyo"" "
+72	145				塩蔵なす類					Salt storage egg-plants 
+72	1451					小なす				Salt storage small egg-plants 
+72	1452					なす				Salt storage egg-plants 
+72	146				塩蔵わらび					Salt storage bracken 
+72	147				塩蔵たけのこ					Salt storage bamboo shoots 
+72	149				その他の塩蔵野菜（つけ物を除く。）					Other salt storage vegetables (except.pickles). 
+72	15			野菜つけ物						Vegetable pickles 
+72	151				ぬかづけ					Rice-bran pickles 
+72	1511					たくあんづけ				"“Takuanzuke"" "
+72	1512					ぬかみそづけ				"“Nukamisozuke"" "
+72	152				しょうゆづけ					Soy sauce pickles 
+72	1521					福神づけ				"“Fukujinzuke"" "
+72	1522					割干づけ				"“Wariboshizuke"" "
+72	1523					しばづけ				"""Shibazuke"" "
+72	1524					朝鮮づけ				"""Chosenzuke"" "
+72	1525					いんろうづけ				"""Inrozuke"" "
+72	1529					その他のしょうゆづけ				Other soy sauce pickles 
+72	15291						きざみづけ			"""Kizamizuke"" "
+72	15292						姿づけ			"""Sugatazuke"" "
+72	153				かすづけ					Sake-cake pickles 
+72	1531					奈良づけ				"""Narazuke"" "
+72	1532					きざみ奈良づけ				"“Kizami-narazuke"" "
+72	1533					わさびづけ				"""Wasabizuke"" "
+72	1534					山海づけ				"""Sankaizuke "" "
+72	1539					その他のかすづけ				"Other ""Kasuzuke"" "
+72	154				酢づけ					Sour pickles 
+72	1541					味付らっきょうづけ				"Seasoned ""rakkyozuke "" "
+72	1542					しょうがづけ				“Shogazuke”(pickled gingers) 
+72	1543					千枚づけ				"""Senmaizuke"" "
+72	1544					はりはりづけ				"""Hariharizuke"" "
+72	1549					その他の酢づけ				Other pickled in vinegar 
+72	155				塩づけ					Salted pickles 
+72	1551					のざわなづけ				"""Nozawanazuke"" "
+72	1552					たなかづけ				"""Takanazuke "" "
+72	1553					ひろしまなづけ				"“Hiroshimanazuke"" "
+72	1554					しその実・葉づけ				"“Shisonomizuke, shisonomihazuke "" "
+72	1555					花づけ				"“Hanazuke "" "
+72	1556					つぼづけ				"“Tubozuke"" "
+72	1559					その他の塩づけ				Other salted pickles 
+72	156				みそづけ					Miso pickles 
+72	157				からしづけ					Mustard pickles 
+72	158				こうじづけ					Koji (asp. oryzae) pickles 
+72	1581					べったらづけ				"""Bettarazuke"" "
+72	1589					その他のこうじづけ				Other koji (asp. oryzae) pickles 
+72	159				その他の野菜つけ物					Other vegetable pickles 
+72	1591					浅づけ				"Asazuke"" "
+72	1599					他に分類されない野菜つけ物				"Vegetable pickles,n.e.c. "
+72	16			野菜冷凍食品						"Vegetable, prepared frozen foods "
+72	1601					さといも				Taro (dasheen) 
+72	1602					にんじん				Carrot 
+72	1603					ごぼう				Edible burdock 
+72	1604					だいこん				Japanese radish 
+72	1605					ほうれんそう				Spinach 
+72	1606					はくさい				Chinese cabbage 
+72	1607					キャベツ				Cabbage 
+72	1608					しゅんぎく				Garland chrysanthemum 
+72	1611					アスパラガス				Asparagus 
+72	1612					ピーマン				Bell pepper 
+72	1613					カリフラワー				Cauliflower 
+72	1614					れんこん				Lotus root 
+72	1615					たまねぎ				Onion 
+72	1616					芽キャベツ				Brussels sprout 
+72	1617					ブロッコリー				"Broccoli (Sprouting broccoli, Italian broccoli) "
+72	1618					ねぎ				Welsh onion 
+72	1621					かぼちゃ				Pumpkin and squash 
+72	1622					軸つきコーン				Whole carnel corn 
+72	1623					ホールカーネルコーン				Corn on the cob 
+72	1624					クリームコーン				Cream corn 
+72	1625					えだまめ				"Broad beans, green: "
+72	1626					そらまめ				"Soy-beans, green "
+72	1627					グリーンピース				Green peas 
+72	1628					シュガーピース				Sugar peas 
+72	1631					さやえんどう				"Peas, green pod "
+72	1632					さやいんげん				"Kidney bean, green pod "
+72	1633					ワックスビーン				Wax bean 
+72	1634					フレンチフライポテト				French fried potatoes 
+72	1635					ポテトフライ				Fried potatoes 
+72	1636					ボイルポテト				Boiled potatoes 
+72	1637					スイートポテト				Sweet potatoes 
+72	1638					混合野菜				Mixed vegetables 
+72	1641					つけ物				Vegetables provisionally preserved in brine 
+72	1699					その他の野菜冷凍食品				"Other vegetables, prepared frozen foods "
+72	17			乾燥野菜						Dehydrated vegetables 
+72	171				フレーク及びパウダー					"Vegetables, flake or powder "
+72	1711					たまねぎ				Onion flake or powder 
+72	1712					にんにく				Garlic flake or powder 
+72	1713					ねぎ				Welsh onions flake or powder 
+72	1714					キャベツ				Cabbages flake or powder 
+72	1715					はくさい				Chinese cabbages flake or powder 
+72	1716					にんじん				Carrots flake or powder 
+72	1717					かぼちゃ				Pumpkin and squash flake or powder 
+72	1719					その他のフレーク及びパウダー				"Other vegetables, flake or powder "
+72	172				スイートコーン					Sweet corn 
+72	173				かんぴょう					"""Kanpyo"" "
+72	1731					普通かんぴょう				"Ordinary “Kanpyo"" "
+72	1732					造り落ちかんぴょう				"“Tsukuri-ochi kanpyo"" "
+72	1733					引こきかんぴょう				"""Hikkoki kanpyo"" "
+72	174				だいこん					Dehydrated radishes 
+72	1741					干しだいこん				"""Hoshi-daikon"" "
+72	1742					割り干しだいこん				"""Wariboshi-daikon"" "
+72	1743					切り干しだいこん				"""Kiriboshi-daikon"" "
+72	175				山菜類					"""Sansai"" group "
+72	1751					ぜんまい				Dehydrated ostrich ferns 
+72	1752					わらび				Dehydrated bracken 
+72	1759					その他の山菜類				"Other dehydrated ""Sansai"" group "
+72	179				その他の乾燥野菜					Other dehydrated vegetables 
+72	1791					かんしょ蒸し切り干し				Sweet potato chips (boiled) 
+72	1792					かんしょ生切り干し				Sweet potato chips (raw) 
+72	1793					いもがら				Dehydrated stalk of taro 
+72	1799					他に分類されない乾燥野菜				"Dehydrated vegetables, n.e.c. "
+72	18			野菜つくだに						"Vegetables “tsukudani"" (Preserved vegetables boiled in soy).. "
+72	19			その他の野菜加工品						Other porcessed vegetables 
+72	191				オニオンエキス					Onion extract ... 
+72	199				他に分類されない野菜加工品					"Processed vegetables, n.e.c. "
+72	2		果実加工品							Processed fruits 
+72	21			果実かん・びん詰						"Fruit, canned or bottled "
+72	211				かんきつかん・びん詰					"Citrus, canned or bottled "
+72	2111					うんしゅうみかん				"“Unshu mikan"", canned or bottled "
+72	2112					なつみかん				"Summer orange, canned or bottled "
+72	2119					その他のかんきつかん・びん詰				"Other citrus, canned or bottled "
+72	212				ももかん・びん詰					"Peach, canned or bottled "
+72	2121					白桃				"White peach, canned or bottled "
+72	2122					黄桃				"Yellow peach, canned or bottled "
+72	2129					その他のももかん・びん詰				"Other peach, canned or bottled "
+72	213				なしかん・びん詰					"Pear, canned or bottled "
+72	2131					日本なし				"Japanese pear, canned or bottled "
+72	2132					西洋なし				"Pear, canned or bottled "
+72	2139					その他のなしかん・びん詰				"Other pear, canned or bottled "
+72	214				りんごかん・びん詰					"Apple, canned or bottled "
+72	215				さくらんぼかん・びん詰					"Cherry, canned or bottled "
+72	216				パインアップルかん・びん詰					"Pineapple, canned or bottled "
+72	217				くりかん・びん詰					"Chestnut, canned or bottled "
+72	218				混合果実かん・びん詰					"Mixed fruit, fruit cocktail and fruit salada, canned or bottled081290 "
+72	2181					ミックスドフルーツ				"Mixed fruit, canned or bottled "
+72	2182					フルーツカクテル				"Fruit cocktail, canned or bottled "
+72	2183					フルーツサラダ				"Fruit salada, canned or bottled "
+72	2189					その他の混合果実かん・びん詰				"Other mixed fruit, canned or bottled "
+72	219				その他の果実かん・びん詰					"Other fruit, canned or bottled "
+72	2191					びわ				"Loquats, canned or bottled "
+72	2192					いちご				"Strawberry, canned or bottled "
+72	2193					いちじく				"Figs, canned or bottled "
+72	2194					あんず				"Apricots, canned or bottled "
+72	2195					ぶどう				"Grape, canned or bottled "
+72	2196					フルーツみつ豆				"Fruit “mitsurname"", canned or bottled "
+72	2199					他に分類されない果実かん・びん詰				"Fruit, canned or bottled, n.e.c. "
+72	22			果実飲料原料						Raw material for fruit drinks 
+72	221				濃縮果実					Concentrated fruit juice: 
+72	2211					かんきつ				Concentrated citrus juice 
+72	22111						うんしゅうみかん			"Mandarine-orange (""unshu-mikan"") concentrated juice "
+72	22112						なつみかん			Concentrated summer orange juice 
+72	22119						その他のかんきつ			Other concentrated citrus juice 
+72	2212					りんご				Concentrated apple juice 
+72	2213					ぶどう				Concentrated grape juice 
+72	2214					パインアップル				Concentrated pineapple juice 
+72	2219					その他の濃縮果汁				Other concentrated fruit juice 
+72	222				天然果汁					Natural fruit juice 
+72	2221					かんきつ				Citrus juice 
+72	22211						うんしゅうみかん			"Mandarine-orange (“unshu-mikan"") juice "
+72	22212						なつみかん			Summer orange juice 
+72	22219						その他のかんきつ			Other citrus juice 
+72	2222					りんご				Apple juice 
+72	2223					ぶどう				Grape juice 
+72	2224					パインアップル				Pineapple juice 
+72	2229					その他の天然果汁				Other fruit juice 
+72	223				フルーツピューレ					Fruit puree 
+72	2231					かんきつ				Citrus puree 
+72	22311						うんしゅうみかん			Mandarine-orange puree 
+72	22312						なつみかん			Summer orange puree 
+72	22319						その他のかんきつ			Other citrus puree 
+72	2232					りんご				Apple puree 
+72	2233					もも				Peach puree 
+72	2239					その他のフルーツピューレ				Other fruit puree 
+72	229				その他の果実飲料原料					Other raw material for fruit drinks 
+72	23			ジャム，マーマレード及び果実バター（気密容器入と否とを問わない。）						"Jams, marmalades and fruit butter (whether in airtight containers or not) "
+72	231				いちごジャム					Strawberry jam 
+72	2311					いちごジャム（気密容器入のもの）				Strawberry jam (in airtight containers) 
+72	2312					いちごジャム（気密容器入でないもの）				Strawberry jam (not in airtight containers) 
+72	232				りんごジャム					Apple jam 
+72	2321					リンゴジャム（気密容器入のもの）				Apple jam (in airtight containers) 
+72	2322					リンゴジャム（気密容器入でないもの）				Apple jam (not in airtight containers) 
+72	233				あんずジャム					Apricot jam 
+72	2331					あんずジャム（気密容器入のもの）				Apricot jam (in airtight containers) 
+72	2332					あんずジャム（気密容器入でないもの）				Apricot jam (not in airtight containers) 
+72	234				いちじくジャム					Fig jam 
+72	2341					いちじくジャム（気密容器入のもの）				Fig jam (in airtight containers) 
+72	2342					いちじくジャム（気密容器入でないもの）				Fig jam (not in airtight containers) 
+72	235				マーマレード					Marmalade 
+72	2351					マーマレード（気密容器入のもの）				Marmalade (in airtight containers) 
+72	2352					マーマレード（気密容器入でないもの）				Marmalade (not in airtight containers) 
+72	239				その他のジャム，マーマレード及び果実バター（気密容器入と否とを問わない。）					"Other jams, marmalades and fruit butter (whether in airtight containers or not) "
+72	24			果実つけ物						Fruit pickles 
+72	241				うめぼし					Pickled plums (Japanese apricots) 
+72	2411					普通うめぼし				"Pickled plums, non-seasoned "
+72	2412					調味うめぼし				"Pickled plums, seasoned "
+72	242				うめづけ					Salted plums (Japanese apricots) 
+72	2421					普通うめぼし				"Salted plums, non-seasoned "
+72	2422					調味うめぼし				"Salted plums, seasoned "
+72	249				その他の果実つけ物					Other fruit pickles 
+72	25			乾燥果実						Dried fruits 
+72	251				干がき					Dried persimmons 
+72	252				干ぶどう					Dried grapes 
+72	253				干バナナ					Dried bananas 
+72	254				干パインアップル					Dried pineapples 
+72	255				干あんず					Dried apricots 
+72	259				その他の乾燥果実					"Other fruits, dried "
+72	26			果実冷凍食品						"Fruits, prepared frozen foods "
+72	261				うんしゅうみかん					"Mandarine-orange, prepared frozen foods "
+72	262				もも					"Peach, prepared frozen foods "
+72	263				りんご					"Apple, prepared frozen foods "
+72	264				さくらんぼ					"Cheerries, prepared frozen foods "
+72	265				パインアップル					"Pineapple, prepared frozen foods "
+72	266				びわ					"Loquats, prepared frozen foods "
+72	267				いちご					"Strawberry, prepared frozen foods "
+72	268				メロン					"Melon, prepared frozen foods "
+72	269				その他の果実冷凍食品					"Other fruits, prepared frozen foods "
+72	2691					かき				"Persimmon, prepared frozen foods "
+72	2692					あんず				"Apricot, prepared frozen foods "
+72	2693					ぶどう				"Grape, prepared frozen foods "
+72	2694					いちじく				"Fig, prepared frozen foods "
+72	2695					くり				"Chestnut, prepared frozen foods "
+72	2696					ぎんなん				"Ginkgo nut, prepared frozen foods "
+72	2699					他に分類されない果実冷凍食品				"Fruits, prepared frozen foods, n.e.c, "
+72	29			その他の果実加工品						"Other processed fruits, n.e.c. "
+72	3		茶，コーヒー及びココアの調製品							"Tea, coffee and cocoa "
+72	31			茶						Tea 
+72	311				不発酵茶					Unfermented tea (green tea) 
+72	3111					普通せん茶				"Ordinary “sen-cha"" "
+72	3112					玉緑茶				"“Tamaryoku-cha"" (curled leaf tea) "
+72	3113					玉露茶				"“Gyokuro"" "
+72	3114					まっ茶				"“Matcha""(ten-cha) "
+72	3115					ばん茶				“Ban-cha” 
+72	3116					ほうじ茶				"""Hoji-cha"" "
+72	3119					その他の不発酵茶				Other unfermented tea 
+72	312				発酵茶					Fermented tea 
+72	3121					紅茶				Black tea 
+72	3129					その他の発酵茶				Other fermented tea 
+72	313				半発酵茶					Half fermented tea 
+72	3131					ウーロン茶				Oolong tea 
+72	3132					包種茶				Pouchong tea 
+72	3139					その他の半発酵茶				Other half fermented tea 
+72	319				その他の茶（製品を含む。）					Other tea products 
+72	3191					インスタントティー				Instant tea 
+72	3192					茶のエキス・エッセンス及び濃縮粉				"Extracts, essences and concentrates of tea "
+72	3193					茶をもとにした調製品				Preparations with a basis of tea 
+72	32			コーヒー製品						Coffee products 
+72	321				ばいせんコーヒー豆					Roasted coffee beans 
+72	322				ひきコーヒー					Ground coffee 
+72	323				インスタントコーヒー（ソリュブルコーヒー）					Soluble coffee (instant coffee) 
+72	329				その他のコーヒー製品					Other coffee products 
+72	33			ココア製品						Cocoa products 
+72	331				カカオマス					Cocoa mass (cocoa paste made from ground cocoa beans).. 180310 
+72	332				ココアケーキ					Cocoa cake 
+72	333				カカオ脂					Cocoa butter 
+72	334				ココア粉					Cocoa powder 
+72	3341					ピュアココア				Pure cocoa powder 
+72	3342					ミルクココア				Milk cocoa powder 
+72	3349					その他のココア粉				Other cocoa powder 
+72	339				その他のココア製品					Other cocoa products 
+72	4		香辛料							Spices 
+72	401				ブラックペッパー					Black pepper 
+72	402				ホワイトペッパー					White pepper 
+72	403				レッドペッパー					Red pepper 
+72	404				シナモン（桂皮）					Cinnamon 
+72	405				クローブ（丁子）					Clove Nutmeg Saffron 
+72	406				ナツメグ（肉ずく）					
+72	407				サフラン					
+72	408				ローレル（月桂葉）					Bay leave 
+72	411				パプリカ					Paprika 
+72	412				オールスパイス（百味こしょう）					All spices 
+72	413				さんしょう					Japanese pepper 
+72	414				カレー粉					Curry powder 
+72	415				からし粉					Mustard powder 
+72	416				わさび粉					"""Wasabi"" powder "
+72	417				しょうが					Ginger 
+72	499				その他の香辛料					Other spices 
+72	5		めん・パン類							"Noodles, bread and similar preparations "
+72	51			めん類						"Vermicelli, macaroni and similar preparations"
+72	511				生めん類					Raw vermicelli and similar preparations 
+72	5111					うどん類				Vermicelli and similar preparations 
+72	5112					日本そば類				Buckwheat vermicelli and similar preparations 
+72	5113					中華めん類				Chinese vermicelli and similar preparations 
+72	512				乾めん類					Dried vermicelli and similar preparations 
+72	5121					うどん類				Vermicelli and similar preparations 
+72	5122					日本そば類				Buckwheat vermicelli and similar preparations 
+72	5123					そうめん類				Thin vermicelli and similar preparations 
+72	5124					中華めん類				Chinese vermicelli and similar preparations 
+72	513				即席めん類					Instant vermicelli and similar preparations 
+72	5131					中華めん類				Chinese vermicelli and similar preparations 
+72	5132					和風めん類				Japanese vermicelli and similar preparations 
+72	5133					欧風めん類				European vermicelli and similar preparations 
+72	5134					スナックめん類				Snack vermicelli 
+72	514				マカロニ類					Macaroni and similar preparations 
+72	5141					マカロニ				Macaroni 
+72	5142					スパゲッティ				Spaghetti 
+72	5149					その他のマカロニ類				Other macaroni 
+72	519				その他のめん類					"Other vermicelli, macaroni and similar preparations "
+72	52			パン類						Bread and bun 
+72	521				食パン					Bread 
+72	522				菓子パン					Bun 
+72	523				イーストドーナッツ					Yeast doughnuts 
+72	524				調理パン					Prepared bread 
+72	529				その他のパン類					Other breads 
+72	6		穀類加工品							Cereal processed goods 
+72	61			アルファー化穀類（オートミール及びアルファー化米粉を除く。）						Alpha cereal (except oat meal and alpha rice flour) 
+72	62			米加工品（米菓・米飯類を除く。）						Processed rice (except rice cracker and rices) 
+72	621				アルファー化米					Alpha rice 
+72	622				もち					Rice cakes 
+72	629				その他の米加工品					Other processed rice 
+72	63			オートミール						Oat meal 
+72	64			パン粉						Bread crump powder 
+72	65			ふ（麸）						Wheat gulten bread 
+72	66			麦茶						Barley tea 
+72	69			その他の穀類加工品						Other cereal processed goods 
+72	7		菓子類							Kashi (cake and confectioneries) 
+72	701				ビスケット類					Biscuits 
+72	7011					ビスケット				Biscuits 
+72	7012					クッキー				Cookies 
+72	7013					クラッカー				Crackers 
+72	7014					パイ				Pies 
+72	7015					乾パン				Hardtack 
+72	7019					その他のビスケット類				Other biscuits 
+72	702				焼き菓子					Baked cakes 
+72	7021					せんべい（米菓を除く。）				"“Senbei"" (except rice cracker) "
+72	7029					その他の焼き菓子				Other baked cakes 
+72	703				米菓					Rice crackers 
+72	7031					あられ				"""Arare"" crackers "
+72	7032					せんべい				Rice crackers 
+72	7039					その他の米菓				Other rice crackers 
+72	704				油菓子					Fried candies 
+72	7041					かりんとう				"""Karinto"" "
+72	7049					その他の油菓子				Other fried candies 
+72	705				和生菓子					Japanese cakes 
+72	7051					流しもの				Nagashi-mono 
+72	70511						ようかん			Fine sweet pastes 
+72	70519						その他の流しもの			Other nagashi-mono 
+72	7052					蒸しもの				Mushi-mono 
+72	70521						まんじゅう			"""Manju"" "
+72	70529						その他の蒸しもの			Other mushi-mono 
+72	7053					餅もの				Mochi-mono (Rice cakes) 
+72	70531						だいふく餅			Daifuku-mochi 
+72	70539						その他の餅もの			Other mochi-mono 
+72	7054					生もの				Pastry 
+72	70541						練りきり			Nerikiri 
+72	70542						もなか			Monaka (bean-jam wafer) 
+72	70549						その他の生もの			Other pastry 
+72	7055					焼きもの				Yaki-mono 
+72	70551						どらやき			Dorayaki 
+72	70559						その他の焼きもの			Other yaki-mono 
+72	7059					その他の和生菓子				Other japanese cakes 
+72	706				洋生菓子					Foreign cakes 
+72	7061					パイ類				Pies 
+72	7062					ケーキ類				Cakes 
+72	70621						ショートケーキ			Short cakes 
+72	70629						その他のケーキ類			Other cakes 
+72	7063					かすてら				"""Kasutera"" sponge cakes "
+72	7064					シュー菓子類				Cream puffed cakes 
+72	70641						シュークリーム			Cream puff 
+72	70649						その他のシュー菓子類			Other cream puffed cakes 
+72	7065					プリン・ゼリー類				Puddings and jellies 
+72	7069					その他の洋生菓子				Other foreign cakes 
+72	707				半生菓子類					Half pastries 
+72	708				和干菓子					Japanese dry confectioneries 
+72	7081					打ちもの				"""Uchimono"" confectionery "
+72	7082					おこし				"""Okoshi"" "
+72	7089					その他の和干菓子				Other japanese dry confectioneries 
+72	711				キャンデー類					Candies 
+72	7111					キャラメル				Caramel 
+72	7112					ヌガー				Nougat 
+72	7113					ドロップ				Drops 
+72	7114					引きあめ				"""Hiki"" candy "
+72	7115					生地あめ				"“Kiji"" (plain) candy "
+72	7116					清涼菓子				Refreshing cool candies 
+72	7119					その他のキャンデー類				Other candies 
+72	712				チョコレート類					Chocolates 
+72	7121					板もの				Chocolates bar (plain chocolate) 
+72	7122					センターもの				Solid chocolate 
+72	7129					その他のチョコレート類				Other chocolates 
+72	713				チューインガム					Chewing-gum and bubble gum 
+72	7131					板ガム				Plain chewing-gum 
+72	7132					風船ガム				Bubble gum 
+72	7133					糖衣ガム				Sugar-coated chewing-gum 
+72	7139					その他のチューインガム				Other chewing-gum 
+72	714				砂糖漬菓子					Coating sugar confectioneries 
+72	7141					甘納豆				"Sugared beans ""amanatto"" "
+72	7149					その他の砂糖漬菓子				Other coating sugar confectioneries 
+72	715				スナック菓子					Snack confectioneries 
+72	7151					コーン系スナック菓子				Corn snack confectionery 
+72	7152					小麦粉系スナック菓子				Flour snack confectionery 
+72	7153					ポテト系スナック菓子				Potato snack confectionery 
+72	7159					その他のスナック菓子				Other snack confectionery 
+72	716				冷菓					Ice confectioneries 
+72	7161					シャーベット				Sherbet 
+72	7169					その他の冷菓				Other ice confectioneries 
+72	799				その他の菓子類					Other confectioneries 
+72	8		豆類の調製品							Prepared pulses 
+72	801				あん					Bean jam 
+72	8011					生あん				Bean jam (raw) 
+72	8012					ねりあん				Bean jam (pastry) 
+72	8013					乾燥あん				Dried bean jam 
+72	802				煮豆					Boiled pulses 
+72	8021					ゆであずき				"Boiled ""azuki"" beans "
+72	8022					おたふく豆				Boiled broad beans 
+72	8023					豆きんとん				"“Mamekinton"" "
+72	8029					その他の煮豆				Other boiled beans 
+72	803				豆腐・油揚げ類					Soybean curd and fried soy bean curds 
+72	8031					もめん豆腐				"""Momen"" soybean curd "
+72	8032					きぬごし豆腐				"""Kinugoshi"" soybean curd "
+72	8033					ソフト豆腐				Soft soybean curd 
+72	8034					充てん豆腐				Packed soybean curd 
+72	8035					焼き豆腐				Yaki soybean curd 
+72	8036					油揚げ				Fried soybean curd 
+72	8037					生あげ				"""Namaage"" "
+72	8038					がんもどき				"'Ganmodoki"" "
+72	804				ゆば					"""Yuba"" "
+72	805				凍豆腐					Dehydrofreezed bean curd 
+72	806				納豆					"""Natto"" "
+72	807				きなこ					"Kinako, roasted and ground "
+72	808				豆乳類（７６１２２８）					Soy milks 
+72	8081					豆乳（７６１２２８１）				Soy milk 
+72	8082					調製豆乳（７６１２２８２）				Prepared soy milk 
+72	8083					豆乳飲料（７６１２２８３）				Soy milk beverage 
+72	811				ピーナッツ製品（落花生油を除く。）					Peanut products (except peanut oil) 
+72	8111					ピーナッツバター				Peanut butter 
+72	8112					バターピーナッツ				Buttered peanut 
+72	8113					いりさや落花生				Roasted peanut with shell 
+72	8114					いり落花生				Roasted peanut 
+72	8119					その他のピーナッツ製品（落花生油を除く。）				Other peanut products (except peanut oil) 
+72	812				いり豆類（落花生を除く。）					Roasted beans (except peanut) 
+72	899				その他の豆類の調製品					Other prepared beans 
+72	9		その他の農産加工食品							Other processed agricultural foods 
+72	91			こんにゃく						"""Kon-nyaku"" (Paste made from the elephant root) "
+72	99			他に分類されない農産加工食品						"Processed agricultural foods, n.e.c. "
+73		畜産加工食品								PROCESSED ANIMAL FOODS 
+73	1		肉製品							"Meat, prepared "
+73	11			加工肉製品						Processed meet 
+73	111				ハム類					"Ham, pressed ham and mixed ham "
+73	1111					単味ハム				Ham 
+73	1112					プレスハム				Pressed ham 
+73	1113					混合プレスハム				Mixed pressed ham 
+73	112				ソーセージ類					Sausage and mixed sausage 
+73	1121					ソーセージ				Sausage 
+73	1122					混合ソーセージ				Mixed sausage 
+73	113				ベーコン					Bacon 
+73	12			鳥獣肉のかん・びん詰（気密容器入りのもの）						"Meat, canned or bottled (in airtight containers) "
+73	121				牛肉かん・びん詰（気密容器入りのもの）					"Beaf and veal, canned or bottled (in airtight containers).. 160250 "
+73	1211					コンビーフかん・びん詰（気密容器入りのもの）				"Corned beef, canned or bottled (in airtight containers) "
+73	1219					その他の牛肉かん・びん詰（気密容器入りのもの）				"Other beef and veal, canned or bottled (in airtight containers) "
+73	122				豚肉かん・びん詰（気密容器入りのもの）					Pork canned or bottled (in airtight containers) 
+73	1221					ハムかん・びん詰（気密容器入りのもの）				"Ham, canned or bottled (in airtight containers) "
+73	1222					ソーセージかん・びん詰（気密容器入りのもの）				"Sausage, canned or bottled (in airtight containers) "
+73	1223					ベーコンかん・びん詰（気密容器入りのもの）				"Bacon, canned or bottled (in airtight containers) "
+73	1224					ランチョンミートかん・びん詰（気密容器入りのもの）				"Luncheon meat, canned or bottled (in airtight containers) "
+73	1229					その他の豚肉かん・びん詰（気密容器入りのもの）				"Other pork, canned or bottled (in airtight containers) "
+73	123				鶏肉かん・びん詰（気密容器入りのもの）					"Chicken, canned or bottled (in airtight containers) "
+73	129				その他の鳥獣肉のかん・びん詰（気密容器入りのもの）					"Other meat, canned or bottled (in airtight containers).. "
+73	13			鳥獣肉冷凍食品						"Meat, prepared frozen foods "
+73	131				牛肉冷凍食品					"Beef, prepared frozen foods "
+73	132				豚肉冷凍食品					"Pork, prepared frozen foods "
+73	133				羊肉冷凍食品					"Mutton, prepared frozen foods "
+73	134				鳥肉冷凍食品					"Poultry, prepared frozen foods "
+73	139				その他の鳥獣肉冷凍食品					"Other meat, prepared frozen foods "
+73	19			その他の肉製品						"Other meat, prepared "
+73	191				つくだに肉					"""Tsukudani niku"" "
+73	192				かすづけ肉					"""Kasuzuke niku"" "
+73	193				みそづけ肉					"""Misozuke niku"" "
+73	194				ペースト類（かん・びん詰を含む。）					Meat paste (including canned or bottled) 
+73	195				肉のエキス					Extract of meat 
+73	196				肉のスープ					Meat soup 
+73	197				ミートジュース					Meat juice 
+73	199				他に分類されない肉製品					"Meat, prepared, n.e.c. "
+73	2		酪農製品							Dairy products 
+73	21			液状のミルク・クリーム						Fluid milk and cream 
+73	211				牛乳					Fluid milk 
+73	212				加工乳					Processed milk 
+73	213				脱脂乳					Skim milk 
+73	214				クリーム					Cream 
+73	215				ホエイ					Whey 
+73	216				バターミルク					Butter milk 
+73	217				乳飲料					Milk drinks 
+73	219				その他の液状のミルク・クリーム					Other fluid milk and cream 
+73	22			練乳及び濃縮乳						Condensed and evaporated milk 
+73	221				加糖練乳					Sweetened condensed milk 
+73	222				濃縮乳					Condensed milk 
+73	223				無糖練乳					Evaporated milk 
+73	224				脱脂加糖練乳					Sweetened condensed skim milk 
+73	229				その他の練乳及び濃縮乳					Other condensed and evaporated milk 
+73	23			粉乳						Powdered milk 
+73	231				全粉乳					Whole powdered milk 
+73	232				加糖粉乳					Sweetened powdered milk 
+73	233				調製粉乳					Prepared powdered milk 
+73	234				脱脂粉乳					Skim milk powder 
+73	235				ホエイパウダー					Whey powder 
+73	236				バターミルクパウダー					Butter milk powder 
+73	237				アイスクリームミックスパウダー					Ice cream mixed powder 
+73	239				その他の粉乳					Other powdered milk 
+73	24			はっ酵乳及び乳酸菌飲料						Fermented milk and lactic fermented milk drinks 
+73	241				はっ酵乳					Fermented milk 
+73	242				乳酸菌飲料					Lactic fermented milk drinks 
+73	25			バター						Butter 
+73	251				無塩バター					"Butter, unsalted "
+73	252				加塩バター					"Butter, salted "
+73	253				バターオイル					Butter oil 
+73	259				その他のバター					Other butter 
+73	26			チーズ及びカード						Cheese and curd 
+73	261				ナチュラルチーズ					Natural cheese 
+73	262				プロセスチーズ					Processed cheese 
+73	269				その他のチーズ及びカード					Other cheese and curd 
+73	27			アイスクリーム類						Ice creams 
+73	271				アイスクリーム					Ice cream 
+73	272				アイスミルク					Ice milk 
+73	273				ラクトアイス					Lactic ice 
+73	279				その他のアイスクリーム類					Other ice creams 
+73	28			乳糖，カゼイン及び調製品						"Lactose, casein and preparations "
+73	281				乳糖					Lactose 
+73	282				ココア調製品（乳成分を含む。）					Cocoa preparations (including milk contents) 
+73	283				調製食料品（乳成分を含む。）					Prepared foodstuffs (including milk contents) 
+73	284				調製バター（バターとその他の油脂を混和したもの）					Compound butter (butter and other edible oils or fats mixed) 210690 
+73	285				カゼイン類					Caseins 
+73	29			その他の酪農製品						Other dairy products 
+73	3		加工卵製品							Processed poultry eggs 
+73	31			鶏卵の加工製品						Processed chicken eggs 
+73	311				液鶏卵					Fluid chicken eggs 
+73	3111					全液鶏卵				Whole fluid chicken egg 
+73	3112					卵白液鶏卵				Fluid chicken egg white 
+73	3113					卵黄液鶏卵				Fluid chicken egg yolk 
+73	312				粉末鶏卵					Powdered chicken eggs 
+73	3121					全粉鶏卵				Powdered whole egg 
+73	3122					卵白粉鶏卵				Powdered egg white 
+73	3123					卵黄粉鶏卵				Powdered egg yolk 
+73	313				鶏卵加工冷凍食品					Prepared chicken eggs frozen foods 
+73	319				その他の鶏卵加工製品					Other processed chicken eggs 
+73	39			その他の加工卵製品						Other processed eggs 
+73	391				あひるの卵の加工製品					Processed duck eggs 
+73	392				うずらの卵の加工製品					Processed quail eggs 
+73	399				他に分類されない加工卵製品					"Processed eggs, n.c.c. "
+73	9		その他の畜産加工食品							Other processed animal foods(except fishery products) 
+74		水産加工食品								PROCESSED SEA FOODS
+74	1		加工魚介類							"Fish and shellfish, prepared or preserved "
+74	11			素干魚介類						Unsalted and dried fish and shellfishes 
+74	111				みがきにしん					"""Migakinishin"" (dried herring) "
+74	1111					本干みがきにしん				Fully-dried herring 
+74	1112					半干みがきにしん				Half-dried herring 
+74	1113					生干みがきにしん				Raw-dried herring 
+74	112				干かずのこ					"""Hoshikazunoko"" (dried herring roes) "
+74	113				素干いわし					Dried sardine 
+74	1131					たづくり				Dried sardine (fry) 
+74	1132					たたみいわし				Sardine paper 
+74	114				干たら（すけとうだらを含む。）					Dried slice cod (including Alaska pollack) 
+74	1141					棒たら（すけとうだらを含む。）				Dried cod slice (including Alaska pollack) 
+74	1142					凍棒たら（すけとうだらを含む。）				Frozen-dried cod (including Alaska pollack) 
+74	1143					丸干たら（すけとうだらを含む。）				"Dried cod, whole (including Alaska pollack) "
+74	1144					凍丸干たら（すけとうだらを含む。）				"Frozen-dried cod, whole (including Alaska pollack) "
+74	1145					みんたい				Dressed Alaska pollack 
+74	115				さめひれ					Dried sharkfin 
+74	1151					さめひれ				Sharkfin (dried) 
+74	1152					小さめひれ				Small sharkfin (dried) 
+74	116				するめ					"“Surume"" (dried squid and cuttlefish) "
+74	1161					するめいかするめ				Dried cuttlefish 
+74	1162					一番みがきするめ				"No. 1 ""migaki"" dried squid "
+74	1163					二番みがきするめ				"No.2 “migaki"" dried squid "
+74	1164					おたふくするめ				"""Otafuku"" dried squid .... "
+74	1169					その他のするめ				Other dried cuttlefish and squid 
+74	119				その他の素干魚介類					Other unsalted and dried fish and shellfishes 
+74	1191					素干わかさぎ				Dried pond smelt 
+74	1192					素干きびなご				"Dried pond herring (""kibinago"") "
+74	1193					素干かれい				Dried flatfish 
+74	1194					素干かすべ				Dried skate 
+74	1195					素干こうなご				Dried sand lance 
+74	1196					素干えび				Dried shrimp 
+74	1197					素干あみ				Dried mysid shrimp 
+74	1199					他に分類されない素干魚介類				"Unsalted and dried fish and shellfishes, n.e.c. "
+74	12			塩干魚介類						Salted and dried fish and shellfishes 
+74	121				干にしん					Salted and dried herring 
+74	1211					丸干にしん				"Salted and dried herring, whole "
+74	1212					開にしん				"Salted and dried herring, opened "
+74	122				干いわし					Salted and dried sardine 
+74	1221					丸干いわし				"Salted and dried sardine, whole "
+74	1222					開いわし				"Salted and dried sardine, opened "
+74	123				干さば					Salted and dried mackerel 
+74	1231					丸干さば				"Salted and dried mackerel, whole "
+74	1232					開さば				"Salted and dried mackerel, opened "
+74	124				干あじ					Salted and dried horse mackerel 
+74	1241					丸干あじ				"Salted and dried horse mackerel, whole "
+74	1242					開あじ				"Salted and dried horse mackerel, opened "
+74	125				干たら（すけとうだらを含む。）					Salted and dried cod (including Alaska pollack) 
+74	1251					開たら（すけとうだらを含む。）				"Salted and dried cod, opened (including Alaska pollack)"
+74	1252					すきみだら（すけとうだらをふくむ。）				" ""Sukimi tara"" (including Alaska pollack) "
+74	1253					塩干皮むきみたら				"Salted and dried cod, skinless "
+74	1259					その他の干たら（すけとうだらを含む。）				Other salted and dried cod (including Alaska pollack).. 
+74	126				干かれい					Salted and dried flatfish 
+74	127				干さんま					Salted and dried saury pike 
+74	1271					丸干さんま				"Salted and dried saury pike, whole "
+74	1272					開さんま				"Salted and dried saury pike, opened "
+74	128				干とびうお					Salted and dried flying-fish 
+74	129				その他の塩干魚介類					Other salted and dried fish and shellfishes 
+74	1291					干さめ				Salted and dried shark meat 
+74	1292					開かます				"Salted and dried barracuda, opened "
+74	1293					開ふぐ（すきみふぐを含む。）				"Salted and dried puffer, opened (including ""sukimifugu"") "
+74	1294					塩干するめ				Salted and dried cuttlefish and squid 
+74	1295					塩干たら				Salted and dried cod 
+74	1299					他に分類されない塩干魚介類				"Salted and dried fish and shellfishes, n.e.c. "
+74	13			煮干魚介類						Cooked and dried fish and shellfishes 
+74	131				煮干いわし類					Cooked and dried sardines 
+74	1311					煮干いわし				Cooked and dried sardine 
+74	1312					しらす干				Cooked and dried whitebait 
+74	132				煮干さば					Boiled and dried mackerel 
+74	133				煮干あじ					Boiled and dried sand lance 
+74	134				煮干こうなご					Boiled and dried horse mackerel 
+74	135				干貝柱					Dried scallop ligament 
+74	1351					干ほたて貝柱				Boiled and dried shell ligament 
+74	1352					干いたや貝柱				"Dried ""itaya"" shellfish ligament "
+74	1359					その他の干貝柱				Other boiled and dried shell ligament 
+74	136				干あわび					Boiled and dried abalone 
+74	1361					明ほう				"""Mei-ho"" "
+74	1362					灰ほう				"""Hai-ho"" "
+74	137				煮干えび					Boiled and dried shrimp 
+74	1371					煮干皮つきえび				"Boiled and dried shrimp, whole "
+74	1372					煮干むきえび				"Boiled and dried shrimp, shucked "
+74	138				干なまこ					Boiled and dried sea cucumber 
+74	139				その他の煮干魚介類					Other boiled and dried fish and shellfishes 
+74	1391					煮干にしん				Boiled and dried herring 
+74	1392					煮干わかさぎ				Boiled and dried pond smelt 
+74	1393					煮干貝類				Boiled and dried shellfish 
+74	1394					圧搾煮干さんま				"Pressed, boiled and dried saury pike "
+74	1395					煮干いか				Boiled and dried cuttlefish 
+74	1396					煮干かき				Boiled and dried oyster 
+74	1399					他に分類されない煮干魚介類				"Boiled and dried fish and shellfishes, n.e.c. "
+74	14			塩蔵魚介類						Salted fish and shellfishes 
+74	141				塩蔵にしん					Salted herring 
+74	1411					一塩にしん				Slightly salted herring 
+74	1412					塩にしん				Moderately salted herring 
+74	1413					堅塩にしん				Salted herring 
+74	142				塩蔵いわし					Salted sardine 
+74	1421					塩いわし				Slightly salted sardine 
+74	1422					塩蔵いわし（塩いわしを除く。）				Salted sardine (except slightly salted sardine) 
+74	143				塩蔵さば					Salted mackerel 
+74	1431					塩さば				Slightly salted mackerel 
+74	1432					塩蔵さば（塩さばを除く。）				Salted mackerel (except slightly salted mackerel) 
+74	144				塩蔵たら（すけとうだらを含む。）					Salted cod (including Alaska pollack) ..... 
+74	1441					塩たら（すけとうだらを含む。）				Slightly salted cod (including Alaska pollack) 
+74	1442					塩蔵開たら（すけとうだらを含む。）				Salted cod (including Alaska pollack) 
+74	145				塩蔵さんま					Salted saury pike 
+74	1451					塩さんま				Slightly salted saury pike 
+74	1452					堅塩さんま				Salted saury pike 
+74	146				塩蔵ほっけ					Salted atka mackerel 
+74	1461					塩ほっけ				Slightly salted atka mackerel 
+74	1462					堅塩ほっけ				Salted atka mackerel 
+74	147				塩蔵さけ・ます					Salted salmon 
+74	1471					塩さけ				Salted salmon 
+74	1472					塩ます				Salted trout 
+74	149				その他の塩蔵魚介類					Other salted fish and shellfishes 
+74	1491					塩蔵かつお				Salted skipjack 
+74	1492					塩蔵ぶり				Salted yellowtail 
+74	1493					塩蔵いか				Salted cuttlefish and squid 
+74	1494					塩かずのこ				"Slightly salted herring-roes (“shio-kazunoko"") "
+74	1495					塩たらこ				"Slightly salted cod-roes (""shio-tarako"") "
+74	1496					すじこ				"""Sujiko"" "
+74	1497					いくら				"""Ikura"" "
+74	1498					キャビア				Caviar (e) 
+74	1499					他に分類されない塩蔵魚介類				"Salted fish and shellfishes, n.e.c. "
+74	15			かん詰魚介類						Canned fish and shellfishes 
+74	1501					あじかん詰				Canned horse mackerel 
+74	15011						あじ水煮かん詰			Canned horse mackerel in brine 
+74	15012						あじトマトづけかん詰			Canned horse mackerel in tomato sauce 
+74	15013						あじ香辛料づけかん詰			Canned spiced pack horse mackerel 
+74	15014						あじ味付かん詰			Canned seasoned horse mackerel 
+74	15019						その他のあじかん詰			Other canned horse mackerel 
+74	1502					いわしかん詰				Canned sardine 
+74	15021						いわし水煮かん詰			Canned sardine in brine 
+74	15022						いわしトマトづけかん詰			Canned sardine in tomato sauce 
+74	15023						いわし香辛料づけかん詰			Canned spiced pack sardine 
+74	15024						いわし味付かん詰			Canned seasoned sardine 
+74	15025						いわし油づけかん詰			Canned sardine in oil 
+74	15026						いわしくん製油づけかん詰			Canned smoked sardine in oil 
+74	15027						いわしかば焼かん詰			"Canned baked and seasoned sardine (""iwashi-kabayaki canzume"") "
+74	15029						その他のいわしかん詰			Other canned sardine 
+74	1503					かつおかん詰				Canned skipjack 
+74	15031						かつお水煮かん詰			Canned skipjack in brine 
+74	15032						かつお味付かん詰			Canned seasoned skipjack 
+74	15033						かつお油づけかん詰			Canned skipjack in oil 
+74	15034						かつおくん製油づけかん詰			Canned smoked skipjack in oil 
+74	15035						かつお野菜煮かん詰			Canned skipjack added vegetable 
+74	15036						かつおてり焼かん詰			Canned skipjack (teriyaki style) 
+74	15037						かつお角煮かん詰			Canned skipjack (kakuni style) 
+74	15039						その他のかつおかん詰			Other canned skipjacks 
+74	1504					きわだかん詰				Canned yellow fin tuna 
+74	15041						きわだ水煮かん詰			Canned yellow fin tuna in brine 
+74	15042						きわだ油づけかん詰			Canned yellow fin tuna in oil 
+74	15049						その他のきわだかん詰			Other canned yellow fin tuna 
+74	1505					さけ・ますかん詰				Canned salmon 
+74	15051						さけ・ます水煮かん詰			Canned salmon in brine 
+74	15052						さけ・ます味付かん詰			Canned seasoned salmon 
+74	15053						さけ・ますくん製油づけかん詰			Canned smoked salmon in oil 
+74	15054						さけ・ます野菜煮かん詰			Canned salmon added vegetable 
+74	15059						その他のさけ・ますかん詰			Other canned salmon 
+74	1506					さばかん詰				Canned mackerel 
+74	15061						さば水煮かん詰			Canned mackerel in brine 
+74	15062						さばトマトづけかん詰			Canned mackerel in tomato sauce 
+74	15063						さば香辛料づけかん詰			Canned spiced pack mackerel 
+74	15064						さば味付かん詰			Canned seasoned mackerel 
+74	15065						さば油づけかん詰			Canned mackerel in oil 
+74	15066						さばてり焼かん詰			Canned mackerel (teriyaki style) 
+74	15067						さばみそ煮かん詰			"Canned mackerel in “miso"" "
+74	15069						その他のさばかん詰			Other canned mackerel 
+74	1507					さんまかん詰				Canned saury pike 
+74	15071						さんま水煮かん詰			Canned saury pike in brine 
+74	15072						さんまトマトづけかん詰			Canned saury pike in tomato sauce 
+74	15073						さんま香辛料づけかん詰			Canned spiced pack saury pike 
+74	15074						さんま味付かん詰			Canned seasoned saury pike 
+74	15075						さんま油づけかん詰			Canned saury pike in oil 
+74	15076						さんまくん製油づけかん詰			Canned smoked saury pike in oil 
+74	15077						さんまかば焼かん詰			Canned spitch cocked saury pike 
+74	15079						その他のさんまかん詰			Other canned saury pike 
+74	1508					びんながかん詰				Canned albacore 
+74	15081						びんなが水煮かん詰			Canned albacore in brine 
+74	15082						びんなが油づけかん詰			Canned albacore in oil 
+74	15089						その他のびんながかん詰			Other canned albacore 
+74	1511					ぶりかん詰				Canned yellowtail 
+74	15111						ぶり水煮かん詰			Canned yellowtail in brine 
+74	15112						ぶり味付かん詰			Canned seasoned yellowtail 
+74	15113						ぶり油づけかん詰			Canned yellowtail in oil 
+74	15114						ぶりくん製油づけかん詰			Canned smoked yellowtail in oil 
+74	15115						ぶりてり焼かん詰			Canned yellowtail (teriyaki style) 
+74	15119						その他のぶりかん詰			Other canned yellowtail 
+74	1512					まぐろかん詰				Canned tuna 
+74	15121						まぐろ水煮かん詰			Canned tuna in brine: 
+74	15122						まぐろ味付かん詰			Canned seasoned tuna 
+74	15123						まぐろ油づけかん詰			Canned tuna in oil 
+74	15124						まぐろ野菜煮かん詰			Canned tuna added vegetable 
+74	15125						まぐろてり焼かん詰			Canned tuna (teriyaki style) 
+74	15129						その他のまぐろかんづめ			Other canned tuna 
+74	1513					めばちかん詰				Canned big-eyed tuna 
+74	15131						めばち水煮かん詰			Canned big-eyed tuna in brine 
+74	15132						めばち油づけかん詰			Canned big-eyed tuna in oil 
+74	15139						その他のめばちかん詰			Other canned big-eyed tuna 
+74	1514					いかかん詰				Canned cuttlefish 
+74	15141						いか水煮かん詰			Canned squid in brine 
+74	15142						いか味付かん詰			Canned seasoned squid 
+74	15149						その他のいかかん詰			Other canned squid 
+74	1515					たこかん詰				Canned octopus 
+74	15151						たこ水煮かん詰			Canned octpous in brine 
+74	15152						たこ味付かん詰			Canned seasoned octopus 
+74	15159						その他のたこかん詰			Other canned octopus 
+74	1516					えびかん詰				Canned shrimp meat 
+74	15161						えび塩水づけかん詰			Canned shrimp meat in brine 
+74	15162						えび水煮かん詰			Canned shrimp meat in water 
+74	15169						その他のえびかん詰			Other canned shrimp meat 
+74	1517					かにかん詰				Canned crab meat 
+74	15171						たらばがに水煮かん詰			Canned king crab meat in natural juice 
+74	15172						あぶらがに水煮かん詰			"Canned boiled ""abura"" crab meat "
+74	15173						けがに水煮かん詰			"Canned ""kegani” crab meat in natural juice "
+74	15174						はなさきがに水煮かん詰			"Canned ""hanasaki"" crab meat in natural juice "
+74	15175						ずわいがに水煮かん詰			"Canned red crab ""zuwai"" crab meat in natural juice "
+74	15179						その他のかにかん詰			Other canned crab meat 
+74	1518					貝類かん詰				Canned shellfishes 
+74	151801							しじみ味付かん詰		Canned seasoned fresh water clam 
+74	151802							かき水煮かん詰		Canned oyster in brine 
+74	151803							かきくん製油づけかん詰		Canned smoked oyster in oil 
+74	151804							ほたて貝柱水煮かん詰		Canned ligament of scallop in brine 
+74	151805							ほたて貝味付かん詰		Canned seasoned scallop 
+74	151806							たいら貝柱水煮かん詰		Canned ligament of penshell in brine 
+74	151807							たいら貝柱味付かん詰		Canned seasoned ligament of penshell 
+74	151808							あか貝味付かん詰		Canned seasoned ark shell 
+74	151811							あか貝くしざしかん詰		Canned spitted ark shell 
+74	151812							あさり水煮かん詰		Canned little neck clam in brine 
+74	151813							あさり味付かん詰		Canned seasoned little neck clam 
+74	151814							あさりくん製油づけかん詰		Canned smoked little neck clam in oil 
+74	151815							はまぐり水煮かん詰		Canned hard clam in brine 
+74	151816							はまぐり味付かん詰		Canned seasoned hard clam 
+74	151817							はまぐりくん製油づけかん詰		Canned smoked hard clam in oil 
+74	151818							はまぐりくしざしかん詰		Canned spitted hard clam 
+74	151821							うば貝味付かん詰		Canned seasoned hen clam 
+74	151822							ほっき貝水煮かん詰		Canned hen clam in brine 
+74	151823							ほっき貝味付かん詰		Canned seasoned hen clam 
+74	151824							あわび水煮かん詰		Canned abalone in water 
+74	151825							あわび味付かん詰		Canned seasoned abalone 
+74	151826							とこぶし水煮かん詰		"Canned “Tokobushi"" in water "
+74	151827							とこぶし味付かん詰		"Canned seasoned ""Tokobushi"" "
+74	151828							さざえ味付かん詰		Canned seasoned topshell 
+74	151831							ばい貝味付かん詰		Canned seasoned ivory shell 
+74	151832							まて貝水煮かん詰		Canned jackknife clam in brine 
+74	151833							まて貝味付かん詰		Canned seasoned jackknife clam 
+74	151834							とり貝水煮かん詰		Canned heart clam in brine 
+74	151835							とり貝味付かん詰		Canned seasoned heart clam 
+74	151836							貝類くしざしかん詰		Canned spitted shellfishes 
+74	151837							貝類くし焼かん詰		Canned roasted spitting shellfishes 
+74	151899							その他の貝類かん詰		Other canned shellfishes 
+74	1599					その他のかん詰魚介類				Other canned fish and shellfish 
+74	16			冷凍魚介類（冷凍食品を除く。）						Frozen fish and shellfishes (except prepared frozen foods) 
+74	1601					冷凍にしん				Frozen herring 
+74	1602					冷凍いわし				Frozen sardine 
+74	1603					冷凍まぐろ				Frozen tuna 
+74	16031						冷凍びんながまぐろ			Frozen albacore 
+74	16032						冷凍きわだ			Frozen yellowfin tuna 
+74	16033						冷凍くろまぐろ			Frozen bluefin tuna 
+74	16034						冷凍めばち			Frozen big-eyed tuna 
+74	16035						冷凍みなみまぐろ			Frozen southern bluefin tuna 
+74	16039						その他の冷凍まぐろ			Other frozen tuna 
+74	1604					冷凍かじき				Frozen sword fish 
+74	16041						冷凍くろかわかじき			Frozen black marlin 
+74	16042						冷凍しろかわかじき			Frozen white marlin 
+74	16043						冷凍まかじき			Frozen striped marlin 
+74	16044						冷凍めかじき			Frozen broadbill swordfish 
+74	16045						冷凍ばしょうかじき			Frozen sailfish 
+74	16049						その他の冷凍かじき			Other frozen swordfishes 
+74	1605					冷凍さんま				Frozen saury pike 
+74	1606					冷凍ほっけ				Frozen atka mackerel 
+74	1607					冷凍いか類				Frozen squid 
+74	16071						冷凍するめいか			Frozen common cuttlefish 
+74	16072						冷凍もんごういか			Frozen cuttlefishes and squids 
+74	16079						その他の冷凍いか類			Other frozen squid 
+74	1608					冷凍かつお				Frozen skipjack 
+74	1611					冷凍さば				Frozen mackerel 
+74	1612					冷凍あじ				Frozen horse mackerel 
+74	1613					冷凍たら（すけとうだらを含む。）				Frozen cod (including Alaska pollack) 
+74	1614					冷凍ひらめ				Frozen flatfish 
+74	1615					冷凍かれい				Frozen flounder 
+74	1616					冷凍たい				Frozen sea bream 
+74	1617					冷凍ぶり				Frozen yellowtail 
+74	1618					冷凍さわら				Frozen sawara niphonia 
+74	1621					冷凍さけ・ます				Frozen salmon and trout 
+74	1622					冷凍しいら				Frozen dolphin 
+74	1623					冷凍おひょう				Frozen halibut 
+74	1624					冷凍めぬけ				Frozen red fish 
+74	1625					冷凍メルルーサ				Frozen common hake 
+74	1626					冷凍いかなご				Frozen sand lance 
+74	1627					冷凍にじます				Frozen rainbow trout 
+74	1628					冷凍貝柱				Frozen shell ligament 
+74	1631					冷凍あさり				Frozen little neck clam 
+74	1632					冷凍はまぐり				Frozen hard clam 
+74	1633					冷凍かき				Frozen oyster 
+74	1634					冷凍たこ				Frozen octopus 
+74	1635					冷凍えび類				Frozen shrimps 
+74	16351						冷凍たいしょうえび			"Frozen ""taisho-ebi"" "
+74	16352						冷凍くるまえび			"Frozen ""kuruma-ebi"" "
+74	16359						その他の冷凍えび類			Other frozen shrimps 
+74	1636					冷凍かに				Frozen crab 
+74	16361						冷凍けがに			Frozen horsehair crab 
+74	16362						冷凍ずわいがに			Frozen snow crab 
+74	16369						その他の冷凍かに			Other frozen crab 
+74	1637					冷凍さめ				Frozen shark 
+74	1638					冷凍食用かえる				Frozen frog legs 
+74	1641					冷凍すり身				"Frozen ""suri-mi"" "
+74	16411						冷凍すけとうだらすり身			"Frozen ""suri-mi"" of Alaska pollack "
+74	16412						冷凍ホキすり身			"Frozen ""suri-mi"" of Hoki "
+74	16419						その他の冷凍すり身			"Other frozen ""suri-me"" "
+74	1699					その他の冷凍魚介類（冷凍食品を除く。）				Other frozen fishes and shellfishes (except prepared frozen foods) 
+74	16991						冷凍たら卵			Frozen cod roe; frozen Alaska pollack roe 
+74	16992						冷凍にしん卵			Frozen herring roe 
+74	16993						その他の冷凍魚卵			Other frozen fish roes 
+74	16999						他に分類されない冷凍魚介類			"Frozen fish and shellfish, n.e.c. "
+74	17			水産物冷凍食品（冷凍調理食品を除く。）						Frozen prepared aquatic products (except frozen cooking foods) 
+74	171				魚類冷凍食品					Frozen prepared fishes 
+74	1711					丸もの				Round style 
+74	171101							あじ		Horse mackerel 
+74	171102							さば		Mackerel 
+74	171103							いわし		Sardine 
+74	171104							さんま		Saury pike 
+74	171105							かれい		Flat fish 
+74	171106							にじます		Rainbow trout 
+74	171107							きれんこ（きしまだい）		Yellow sea bream 
+74	171108							つぼだい		Boar fish
+74	171111							きす		Sand borer 
+74	171112							あゆ		Sweet smelt 
+74	171113							ちか		"""Chika"" surfsmelt "
+74	171114							わかさぎ		Pond smelt 
+74	171199							その他の丸もの		Other round style 
+74	1712					開き				Splitted style (Hiraki) 
+74	171201							あじ		Horse mackereles 
+74	171202							さんま		Saury pike 
+74	171203							きす		Sand borer 
+74	171204							あなご		Conger-eel 
+74	171205							はも		Sharp-toothed eel 
+74	171206							かます		Barracuda 
+74	171207							とらきす		Weever 
+74	171208							うなぎ		Eel 
+74	171211							にぎす		Deep sea smelt 
+74	171299							その他の開き		Other splitted style 
+74	1713					ドレス				Dressed style 
+74	17131						あかうお			Redfish 
+74	17132						かわはぎ			Filefish 
+74	17139						その他のドレス			Other dressed style fishes 
+74	1714					フィレー				Single fillet style 
+74	17141						さば			Mackerel 
+74	17142						あじ			Horse mackerel 
+74	17143						メルルーサ			Common hake 
+74	17144						すけとうだら			Alaska pollack 
+74	17149						その他のフィレー			Other single fillet style fishes 
+74	1715					切身				Sliced meat style 
+74	171501							まぐろ		Tuna 
+74	171502							かじき		Swordfish 
+74	171503							おひょう		Halibut 
+74	171504							むつ		Big-eye 
+74	171505							さわら		Spanish mackerel 
+74	171506							しいら		Dorado 
+74	171507							めぬけ		Redfish 
+74	171508							たちうお		Hairtail 
+74	171511							あかうお		Redfish 
+74	171512							ぎんだら		Blackcod 
+74	171513							まだら		Cod 
+74	171514							からすがれい		"Greenland halibut, Greenland tarbot "
+74	171515							白がれい		Flathead sole 
+74	171516							さけ		Salmon 
+74	171517							ます		"Pink salmon, cherry salmon "
+74	171518							つぼだい		Boar fish 
+74	171521							あんこう		Frogfish 
+74	171599							その他の切身		Other sliced meat 
+74	1716					さしみ				Sasimi 
+74	17161						かじきさしみ			Sasimi of marlin meat 
+74	17162						まぐろさしみ			Sasimi of tuna meat 
+74	17163						しめさば			Sasimi of shimesaba 
+74	17169						その他のさしみ			Other sasimi 
+74	1719					その他の魚類冷凍食品				Other frozen prepared fishes 
+74	172				たこ類冷凍食品					Frozen prepared octopuses 
+74	1721					煮だこ				Boiled octopus 
+74	1722					味付だこ				Seasoned octopus 
+74	1723					酢だこ				(Sliced and) vinegared octopus 
+74	1724					洗だこ				Crimped slices of raw octopus 
+74	1729					その他のたこ類冷凍食品				Other frozen prepared octopuses 
+74	173				いか類冷凍食品					Frozen prepared cuttlefish and squid 
+74	1731					丸いか				Rounded cuttlefish 
+74	1732					つぼぬきいか				Gutted squid .... 
+74	1733					ひらきいか				Opened cuttlefish and squid 
+74	1734					さしみいか				Sasimi of cuttlefish and squid 
+74	1735					いか足				Pedes of squid 
+74	1736					いかたんざく				Long striped of cuttlefish and squid 
+74	1739					その他のいか類冷凍食品				Other frozen prepared cuttlefish and squid 
+74	174				貝類冷凍食品					Frozen prepared shellfishes 
+74	17401						ほたて貝柱			Ligament of scallap 
+74	17402						まつぶ貝			Whelk 
+74	17403						あわび			Common abalone 
+74	17404						あさり			Little neck clam 
+74	17405						あさり生むき			Shucked little neck clam 
+74	17406						とりがい			Heart clam 
+74	17407						ばい貝			Ivory shell 
+74	17408						ほたてがい			Common scallap 
+74	17411						かき			Oyster 
+74	17499						その他の貝類冷凍食品			Other frozen prepared shellfishes 
+74	175				えび類冷凍食品					Frozen prepared shrimps and prawns 
+74	1751					煮むきえび（カクテルシュリンプ）				Boiled shucked shrimp and prawn (cocktail shrimp)... 160520 
+74	1752					むきえび				Shucked shrimp and prawn 
+74	1753					さくらえび				Spotted shrimp 
+74	1754					えび				Shrimp and prawn 
+74	1755					たいしょうえび				"""Taisho-ebi"" "
+74	1759					その他のえび類冷凍食品				Other shrimps and prawns 
+74	176				かに類冷凍食品					Frozen prepared crabs 
+74	1761					たらばがに				King crab 
+74	1762					ずわいがに				Snow crab 
+74	1769					その他のかに類冷凍食品				Other frozen prepared crabs 
+74	177				食用かえる冷凍食品					Frozen frog legs 
+74	179				その他の水産物冷凍食品（冷凍調理食品を除く。）					Other frozen prepared aquatic products (except frozen 
+74	18			ねり製品						Fish paste products 
+74	181				特殊包装かまぼこ類					"""Kamaboko"" of special packing "
+74	1811					ケーシング詰かまぼこ				"Casing packed ""Kamaboko' "
+74	1812					リテーナ成形かまぼこ				"Retainer style “Kamaboko"" "
+74	1819					その他の特殊包装かまぼこ類				"Other “Kamaboko"" of special packing "
+74	182				蒸かまぼこ類					Mushi-kamaboko (steamed) 
+74	1821					板付かまぼこ				"“Itatsuki-kamaboko"" "
+74	1822					蒸焼かまぼこ				"""Mushiyaki-kamaboko"" "
+74	1823					蒸ちくわ				"""Mushichikuwa"" "
+74	1829					その他の蒸しかまぼこ				"Other “Mushi-kamaboko"" steamed "
+74	183				焼付かまぼこ類					"""Yakiita-kamaboko"" (baked) "
+74	1831					板付焼板かまぼこ				"“Itatsukiyakiita-kamaboko"" "
+74	1832					焼ちくわ				"""Yakichikuwa"" "
+74	1833					卵黄焼かまぼこ				"“Rano yaki-kamaboko"" "
+74	1839					その他の焼板かまぼこ				"Other ""yakiita-kamaboko"" "
+74	184				ゆでかまぼこ					"""Yude-kamaboko"" (boiled) "
+74	1841					はんぺん				"""Hampen"" "
+74	1842					なると				"""Naruto"" "
+74	1849					その他のゆでかまぼこ				"Other ""yude-kamaboko"" (boiled) "
+74	185				揚かまぼこ					"""Age-kamaboko"" (fried) "
+74	186				特殊かまぼこ					"""Tokushu-kamaboko"" "
+74	1861					風味かまぼこ				Flavered fish cakes 
+74	18611						かに風味かまぼこ			Crab flavored fish cakes 
+74	18612						ほたて風味かまぼこ			Scallop flavored fish cakes 
+74	18619						その他の風味かまぼこ			Other flavored fish cakes 
+74	1869					その他の特殊かまぼこ				"Other ""Tokushu-kamaboko"" "
+74	187				魚肉ハム・ソーセージ類					"Fish meat ham, sausage and hamburg "
+74	1871					魚肉ハム				Fish meat ham 
+74	1872					魚肉ソーセージ				Fish sausage 
+74	1873					魚肉ハンバーグ				Fish meat hamburg 
+74	189				その他のねり製品					Other fish paste products 
+74	19			その他の加工魚介類						"Other fish and shellfish, prepared or preserved "
+74	191				くん製魚介類					Smoked fish and shellfish 
+74	1911					くん製にしん				Smoked herring 
+74	1912					くん製さけ・ます				Smoked salmon 
+74	1913					くん製いか				Smoked cuttlefish and squid 
+74	1914					輪いか				"""Waika"" (smoked) "
+74	1915					くん製たら（すけとうだらを含む。）				Smoked cod (including Alaska pollack) 
+74	1916					くん製かき				Smoked oyster 
+74	1919					その他のくん製魚介類				Other smoked fish and shellfish 
+74	192				節類					"""Fushi-rui"" "
+74	1921					いわし節				"“Iwashi-bushi"" "
+74	1922					かつお節				"""Katsuo-bushi"" "
+74	1923					そうだ節				"""Soda-bushi"" "
+74	1924					まぐろ節				"""Maguro-bushi"" "
+74	1925					さば節				"""Saba-bushi"" "
+74	1926					あじ節				"""Aji-bushi"" "
+74	1927					かつおなまり節				"""Katsuo-namaribushi"" "
+74	1928					さんま節				"""Sanma-bushi"" "
+74	1929					その他の節類				"Other ""fushi-rui"" "
+74	193				削節類					"""Kezuribushi-rui"" (flakes of boiled fish meat) "
+74	1931					いわし削節				"“Iwashi-kezuribushi"" (saldine flakes) "
+74	1932					かつお削節				"""Katsuo-kezuribushi"" (skipjack flakes) "
+74	1933					さば削節				"“Saba-kezuribushi"" (mackerel flakes) "
+74	1934					むろあじ削節				"“Muroaji-kezuribushi"" (horse mackerel flakes) "
+74	1935					さんま削節				"""Sanma-kezuribushi"" (saury pike flakes) "
+74	1936					混合削節				Mixed-kezuribushi (mixed flakes) 
+74	1939					その他の削節類				"Other ""kezuribushi-rui"" "
+74	194				塩辛製品					"""Shiokara"" (pickled in salt) "
+74	1941					かつお塩辛				"""Katsuo-shiokara"" (skipjack pickled in salt) "
+74	1942					いか塩辛				"“Ika-shiokara"" (cuttlefish pickled in salt) "
+74	1943					あみ塩辛				"""Ami-shiokara"" (mysid shrimp pickled in salt) "
+74	1944					このわた塩辛				"""Konowata shiokara"" "
+74	1949					その他の塩辛製品				"Other ""shiokara"" "
+74	195				水産物つくだに					"""Suisanbutsu tsukudani"" (marine products boiled soy-bean sauce) "
+74	1951					かつお角煮				"""Kastuo-kakuni"" (skipjack boiled soy-bean sauce) "
+74	1952					こうなごつくだに				"“Konago-tsukudani"" "
+74	1953					切りするめつくだに				"“Kirisurume-tsukudani"" (dried cuttlefish boiled soy-bean sauce) "
+74	1954					はまぐりつくだに				"“Hamaguri-tsukudani"" (hard clam boiled soy-bean sauce) "
+74	1955					あさりつくだに				"“Asari-tsukudani"" (little neck clam boiled soy-bean sauce) 160590 "
+74	1956					えび（あみを含む。）つくだに				"""Ebi-tsukudani"" (shrimp and prawn boiled soy-bean sauce) 160520 "
+74	1957					わかさぎつくだに				"""Wakasagi-tsukudani"" (pond smelt boiled soy-bean sauce) 160419 "
+74	1958					はぜつくだに				"""Haze-tsukudani"" (goby boiled soy-bean sauce) "
+74	1959					その他の水産物つくだに				"Other ""suisanbutsu tsukudani"" "
+74	196				水産物つけもの					“Suisanbutsu tsukemono” (pickled marine products) 
+74	1961					いわしぬかづけ				"“Iwashi-nukazuke"" (sardine pickled in rice-bran and salt).. 160413 "
+74	1962					たらかすづけ				"“Tara-kasu-zuke"" (red rock cod pickled in lees and salt) .... 160419 "
+74	1963					あこうだいかすづけ				"Ako dai-kasu-zuke"" (red rock cod pickled in lees and salt) 160419 "
+74	1964					このしろあわづけ				"""Konoshiro-awa-zuke"" (thrend herring pickled in millet and salt) "
+74	1969					その他の水産物つけもの				"Other “suisanbutsu tsukemono "" "
+74	197				調味加工品					Processed seasoning 
+74	19701						たらそぼろ			"“Tara soboro"" (sugared cod powder) "
+74	19702						たいそぼろ			"""Tai-soboro"" (sugared sea bream powder) "
+74	19703						みりんぼしいわし			"“Mirin-boshi iwashi"" "
+74	19704						みりんぼしさんま			"""Mirin-boshi sanma' "
+74	19705						みりんぼしあじ			"*Mirin-boshi aji"" "
+74	19706						食料魚粉			Edible fish meal 
+74	19707						さきいか（ソフトさきいかを含む。）			"*Saki-ika (including soft “saki-ika"") "
+74	19708						うに加工品			Processed sea urchin 
+74	19711						うにあえもの			"""Uni-aemono"" "
+74	19712						味付かずのこ			Seasoned herring roe 
+74	19799						その他の調味加工品			Other processed seasoning 
+74	199				他に分類されない加工魚介類					"Fish and shellfish prepared or preserved, n.e.c. "
+74	1991					焼干いわし				Roasted and dried sardine 
+74	1992					焼かれい				Roasted and dried flatfish 
+74	1993					焼干わかさぎ				Roasted and dried pond smelt 
+74	1994					焼あなご				Roasted and dried conger eel 
+74	1995					煮だこ				Boiled octopus 
+74	1996					煮かに				Boiled crabs 
+74	1997					煮いか				Boiled cuttlefish and squid 
+74	1998					すだこ				(Sliced and) vinegared octopus 
+74	1999					他に分類されないその他の加工魚介類				"Other processed fish and shellfish, n.e.c. "
+74	2		加工海藻類							"Seaweeds, prepared or preserved "
+74	21			こんぶ						Dried tangle 
+74	211				元ぞろいこんぶ					"""Motozoroi-kombu' "
+74	212				折こんぶ					"""Ori-kombu"" "
+74	213				長切こんぶ					"""Nagakiri-kombu"" "
+74	214				棒こんぶ					"""Bo-kombu” "
+74	215				雑こんぶ					"""Zatsu-kombu"" (dried miscellaneous tangle)"
+74	22			こんぶ加工品						Processed tangle 
+74	221				おぼろこんぶ					"'Oboro-komibu"" "
+74	222				とろろこんぶ					"""Tororo-kombu"" "
+74	223				切りこんぶ					"""Kiri-kombu"" "
+74	224				刻こんぶ					"""Kizami-kombu"" (shredded dried tangle) "
+74	225				青板こんぶ					"""Aoita-kombu"" "
+74	226				こんぶ巻					"""Kombu-maki"" "
+74	227				甘味こんぶ					"""Amaaji-kombu"" "
+74	228				こんぶつくだに					"""Kombu-tsukudani"" "
+74	229				その他のこんぶ加工品					Other processed tangle 
+74	23			干のり						Dried laver 
+74	231				黒のり					"""Kuronori"" "
+74	232				青のり					"""Aonori"" "
+74	233				混のり					"""Majirinori"" "
+74	234				ばらのり					"""Baranori"" "
+74	24			のり加工品						Processed laver 
+74	241				焼のり					"""Yaki-nori"" (roasted laver) "
+74	242				味付のり					"""Ajitsuke-nori"" (seasoned and roasted laver) "
+74	243				のりつくだに					"“Nori-tsukudani"" "
+74	25			干わかめ類						Dried undaria 
+74	251				干わかめ					"""Hoshi-wakame"" (dried undaria) "
+74	252				さらしわかめ					"“Sarashi-wakame"" (water washed and dried undaria) "
+74	253				鳴門わかめ					"""Naruto-wakame"" "
+74	259				その他の干わかめ類					Other dried undaria 
+74	26			干ひじき						"""Hoshi-hijiki"" "
+74	261				干ひじき（煮干ひじきを除く。）					"""Hoshi-hijiki"" (except ""niboshi-hijiki"") "
+74	262				煮干ひじき					"""Niboshi-hijiki"" "
+74	27			干あらめ						"""Hoshi-arame"" "
+74	28			寒天						Agar-agar 
+74	281				天然寒天					Natural agar-agar 
+74	2811					細寒天				"""Hoso-kanten"" (strip) "
+74	2812					角寒天				"""Kaku-kanten"" (square) "
+74	2813					特殊寒天				"""Tokushu-kanten"" "
+74	2819					その他の天然寒天				Other natural agar-agar 
+74	282				工業寒天					Industrial agar-agar 
+74	29			その他の加工海藻類						"Other seaweeds, processed or preserved "
+74	291				塩蔵海藻					Salted seaweed 
+74	2911					塩わかめ				Salted undaria 
+74	2919					その他の塩蔵海藻				Other salted seaweed 
+74	292				海藻類冷凍食品					Frozen prepared seaweeds 
+74	293				寒天干原草					Dried seaweeds of a kind used for manufacturing agar-agar..121220 
+74	2931					素干寒天原草				"""Suboshi-kantengenso"" "
+74	2932					塩ぬき寒天原草				"""Shionuki-kantengenso"" (de-salted) "
+74	2933					さらし寒天原草				"""Sarashi-kantengenso"" (bleached) "
+74	2934					ほんざらし寒天原草				"""Honzarashi-kantengenso"" (semi-bleached) "
+74	2939					その他の寒天原草				Other seaweeds of kind used for manufacturing agar-agar 
+74	299				他に分類されない加工海藻類					"Seaweed, processed or preserved, n.e.c. "
+74	9		その他の水産加工食品							Other processed sea foods 
+75		その他の食料品								OTHER FOODS
+75	1		調味料及びスープ							Seasonings and soups 
+75	11			食塩						Salt 
+75	12			みそ						"""Miso' "
+75	121				米みそ					Rice miso 
+75	122				豆みそ					Soy-beans miso 
+75	123				麦みそ					Barley (naked barley or wheat)miso 
+75	124				調合みそ					Mixed miso 
+75	129				その他のみそ					Other miso 
+75	13			しょうゆ						Soy-sauces 
+75	131				こいくちしょうゆ					"Soy-sauces, ""koikuchi "" "
+75	132				うすくちしょうゆ					"Soy-sauces, “usukuchi"" "
+75	133				たまりしょうゆ					"Soy-sauces, “tamari"" "
+75	134				さいしこみしょうゆ					"Soy-sauces, ""saishikomi"" "
+75	135				しろしょうゆ					"Soy-sauces, white "
+75	139				その他のしょうゆ					Other soy sauces 
+75	14			ソース						Sauces 
+75	141				ウスターソース類					Worcester sauces 
+75	1411					ウスターソース				Worcester sauces 
+75	1412					中濃ソース				Worcester sauces (semi-thick) 
+75	1413					濃厚ソース				Worcester sauces (thick) 
+75	1419					その他のウスターソース類				Other worcester sauces 
+75	142				ドレッシング					Dressings 
+75	1421					マヨネーズ				Mayonaise 
+75	1422					液状ドレッシング				Liquefied dressings 
+75	1429					その他のドレッシング				Other dressings 
+75	149				その他のソース					Other sauces 
+75	15			食酢						Vinegar 
+75	151				醸造酢					Brewed vinegar 
+75	1511					米酢				"""Kome"" vinegar "
+75	1512					かす酢				"""Kasu"" vinegar "
+75	1513					果実酢				Fruit vinegar 
+75	1519					その他の醸造酢				Other brewed vinegar 
+75	152				合成酢					Synthetic vinegar 
+75	16			うま味調味料						"""Umani"" seasoning's "
+75	161				グルタミン酸ソーダ					Mon-sodium glutamate 
+75	162				核酸系調味料					Nucleotide seasonings 
+75	163				複合うま味調味料					"Compound ""umami"" seasonings "
+75	169				その他のうま味調味料					"Other “umami"" seasonings "
+75	17			調味料関連製品						Related products of seasoning 
+75	171				風味調味料					Flavor seasonings 
+75	172				カレールウ					Carry roux 
+75	173				めん類等用つゆ					"""Tsuyu"" for vermicelli and similar preparations "
+75	174				焼肉等のたれ					Grilled meat's sauces 
+75	179				その他の調味料関連製品					Other related products of seasoning 
+75	18			スープ						Soups 
+75	181				乾燥スープ					Dehydrated soups 
+75	1811					コンソメ				Consomme 
+75	1812					ポタージュ				Potage 
+75	1819					その他の乾燥スープ				Other dehydrated soups 
+75	182				乾燥スープ以外のスープ					Soups (except dehydrated soup) 
+75	1821					コンソメ				Consomme 
+75	1822					ポタージュ				Potage 
+75	1829					その他の乾燥スープ以外のスープ				Other dehydrated soups 
+75	19			その他の調味料及びスープ						Other seasonings and soups 
+75	2		食用油脂（※２６５）							Edible oils and fats 
+75	21			食用植物油脂（※２６５３）						"Vegetable oils and fats, edible "
+75	211				精製油（※２６５３）					Refined 
+75	212				サラダ油（※２６５３）					Salad oil 
+75	219				その他の食用植物油脂（※２６５３）					"Other vegetable oils and fats, edible "
+75	22			食用動物油脂（※２６５１）						"Animal oils and fats, edible "
+75	221				精製ラード（※２６５２）					Refined lard 
+75	229				その他の食用動物油脂（※２６５１）					"Other animal oils and fats, edible "
+75	23			食用加工油脂（※２６５）						"Processed oils and fats, edible "
+75	231				ショートニング（２６５６）					Shortening 
+75	232				マーガリン（ファットスプレッドを含む。）（２６５７）					Margarine (including fat spread) 
+75	3		調理食品							Prepared foods 
+75	31			調理冷凍食品						Prepared frozen foods 
+75	311				フライ類及びあげもの類					Fried foods 
+75	3111					水産物フライ類				Fried fishes and shellfishes 
+75	31111						魚類フライ類			Fried fishes 
+75	31112						えびフライ類			Fried shrimps and prawns 
+75	31113						いかフライ類			Fried cuttlefishes 
+75	31114						くじらフライ類			Fried whales 
+75	31115						貝類フライ類			Fried shells 
+75	31119						その他の水産物フライ類			Other fried fishes and shellfishes 
+75	3112					コロッケ類				Coroquettes 
+75	3113					スティック類				Sticks 
+75	3114					カツ類				Cutlets 
+75	3119					その他のフライ類及びあげもの類				Other fried foods 
+75	312				ハンバーグ・ミートボール類					Hamburgsteaks and meat balls 
+75	3121					ハンバーグ				Hamburgsteaks 
+75	3122					ミートボール				Meat balls 
+75	3129					その他のハンバーグ・ミートボール類				Other hamburgsteaks and meat balls 
+75	313				シュウマイ・ギョウザ類					"""Shumai"" and ""gyoza"" "
+75	3131					シュウマイ				"""Shumai"" "
+75	3132					ギョウザ				"""Gyoza"" "
+75	3133					春巻				"""Harumaki"" "
+75	3134					ワンタン				"""Wantan"" "
+75	3139					その他のシュウマイ・ギョウザ類				"Other “shumai” and “gyoza"" "
+75	314				肉及び卵の調製品（別掲を除く。）					Meat and egg prepared foods (except otherwise classified) 
+75	3141					茶わんむし				"'Chawanmushi"" "
+75	3142					卵焼				Baked egg 
+75	3143					カレー				Curry 
+75	3144					オムレツ				Omelette 
+75	3145					ロールキャベツ				Roll cabbage 
+75	3149					その他の肉及び卵の調製品				Other meat and egg prepared foods 
+75	315				米飯類					Rices 
+75	3151					白飯				Rice 
+75	3159					その他の米飯類				Other rices 
+75	316				めん類					Noodles 
+75	317				ベーカリー製品及び菓子類					Bakeries and cakes 
+75	3171					パン生地				Dough 
+75	3172					ピザパイ				Pizza pies 
+75	3173					その他のパイ類				Other pies 
+75	3174					まんじゅう				"""Manju"" "
+75	3175					プリン				Pudding 
+75	3176					ケーキ				Cakes 
+75	3179					その他のベーカリー製品及び菓子類				Other bakeries and cakes 
+75	319				その他の調理冷凍食品					Other prepared frozen foods 
+75	3191					かばやき類				"""Kabayaki"" "
+75	3192					シチュー類				Stews 
+75	3193					グラタン				Gratin 
+75	3194					スープ類				Soups 
+75	3195					ソース類				Sauces 
+75	3199					他に分類されない調理冷凍食品				"Prepared frozen foods, n.e.c. "
+75	32			チルド食品						Chilled foods 
+75	321				ハンバーグ					Hamburg steaks 
+75	322				ミートボール					Meat balls 
+75	323				ギョウザ					"""Gyoza"" "
+75	324				シュウマイ					"'Shumai"" "
+75	325				春巻					"""Harumaki"" "
+75	329				その他のチルド食品					Other chilled foods 
+75	33			レトルトパウチ食品						Retortable pouched foods 
+75	3301					カレー及びハヤシ				Curry and hash 
+75	3302					パスタソース				Pasta-sauces 
+75	3303					まあぼ料理のもと				"Prepared materials to ""Mabo dish"" "
+75	3304					混ぜごはんのもと類及びどんぶりもののもと				"Prepared materials to ""Mazegohan and Donburimono"" "
+75	3305					シチュー				Stew 
+75	3306					スープ				Soups 
+75	3307					米飯類				Rices 
+75	3308					食肉調理品				Prepared meat 
+75	33081						食肉味付			Seasoned meat 
+75	33082						食肉油漬			Oiled meat 
+75	3311					水産調理食品				Prepared fishes and shellfishes 
+75	33111						魚肉味付			Seasoned fish 
+75	33112						魚肉油漬			Oiled fish 
+75	3399					その他のレトルトパウチ食品				Other retortable pouched foods 
+75	39			その他の調理食品						Other prepared foods 
+75	391				煮物類					Boiled foods 
+75	3911					煮魚				Boiled fish 
+75	3912					煮まめ				Boiled bean 
+75	3913					甘露煮				"""Kanroni"" "
+75	3914					おでん				"""Oden"" "
+75	3915					カレー				Curry 
+75	3916					シチュー				Stew 
+75	3917					ロールキャベツ				Roll cabbage 
+75	3919					その他の煮物類				Other boiled foods 
+75	392				焼物類					Broiled foods 
+75	3921					焼肉				Roast meat 
+75	3922					焼豚				Roast pork 
+75	3923					焼鳥				Roast chicken 
+75	3924					玉子焼				Baked egg 
+75	3925					オムレツ				Omelette 
+75	3926					うなぎ蒲焼				"Broiled eels ""kabayaki"" "
+75	3927					グラタン				Gratin 
+75	3928					ハンバーグ				Hamburg steaks 
+75	3929					その他の焼物類				Other broiled foods 
+75	393				炒め物類					Fried sautes 
+75	3931					野菜炒め				Fried saute vegetable 
+75	3932					きんぴら				"""Kinpira"" "
+75	3933					焼きそば				Noodle saute 
+75	3939					その他の炒め物類				Other fried sautes 
+75	394				揚げ物類					Fried foods 
+75	3941					コロッケ				Coroquettes 
+75	3942					トンカツ				Pork cutlets 
+75	3943					天ぷら				"""Tenpura"" "
+75	3944					からあげ				Deep fried foods 
+75	3945					魚フライ				Fried fish ..... 
+75	3946					串あげ				"Spit fried foods ""kusiage"" "
+75	3947					春巻				"“Harumaki"" "
+75	3949					その他の揚げ物類				Other fried foods 
+75	395				蒸し物類					Smothered foods 
+75	3951					ぎょうざ				"""Gyoza"" "
+75	3952					しゅうまい				"""Shumai"" "
+75	3953					茶碗蒸し				"“Chawan mushi"" "
+75	3959					その他の蒸し物類				Other smothered foods 
+75	396				和え物類					Dressed foods 
+75	3961					野菜サラダ				Vegetable salad 
+75	3962					ポテトサラダ				Potato salad 
+75	3963					マカロニサラダ				Macaroni salad 
+75	3964					酢の物				Vinegared dish 
+75	3965					マリネ				Marinade 
+75	3969					その他の和え物類				Other dressed foods 
+75	397				米飯類					Rices (staple foods) 
+75	39701						弁当			Box lunch 
+75	39702						おにぎり			"""Onigiri"" "
+75	39703						寿司			"""Sushi"" "
+75	39704						白飯			Rice 
+75	39705						赤飯			"""Sekihan"" steamed rice with red beans "
+75	39706						ピラフ			Pilaf 
+75	39707						チャーハン			Frizzled rice 
+75	39708						サンドイッチ			Sandwiches 
+75	39711						ハンバーガー			Hamburger 
+75	39712						スパゲッティ			Spaghetti 
+75	39713						お好み焼き			"'Okonomiyaki"" "
+75	39714						肉まん			"""Nikuman "
+75	39715						あんまん			"""Anman"" "
+75	39799						その他の米飯類			Other staple foods 
+75	399				他に分類されない調理食品					"Prepared foods, n.e.c. "
+75	9		他に分類されない食料品							"Foods, n.e.c. "
+75	91			イースト及びふくらし粉						Yeast and baking powder 
+75	911				パン用イースト					Baker's yeast 
+75	912				醸造用イースト					Brewer's yeast 
+75	913				ふくらし粉					Baking powder 
+75	919				その他のイースト及びふくらし粉					Other yeast and baking powder 
+75	92			植物性たん白及び調味植物性たん白						Vegetable protein and seasoned vegetable protein 
+75	921				粉末状植物性たん白					Pasty vegetable protein 
+75	922				ペースト状植物性たん白					Powdered vegetable protein 
+75	923				粒状植物性たん白					Granular vegetable protein 
+75	924				繊維状植物性たん白					Fibrous vegetable protein 
+75	925				調味粒状植物性たん白					Seasoned granular vegetable protein 
+75	926				調味繊維状植物性たん白					Seasoned fibrous vegetable protein 
+75	93			麦芽，麦芽抽出物及び麦芽シロップ						"Malt, malt extract and malt syrup "
+75	931				麦芽					Malt 
+75	932				麦芽抽出及び麦芽シロップ					Malt extract and malt syrup 
+75	94			芳香シロップ抽出品，濃縮品，ペースト及び粉末						"Flavoring syrups, extracts concentrates, pastes and powders "
+75	95			粉末ジュース						Instant powder juice 
+75	99			他に分類されないその他の食料品						"Other foods, n.e.c. "
+76		飲料、氷								BEVERAGES AND ICE 
+76	1		アルコールを含まない飲料							Non-alcoholic beverages 
+76	11			飲料水						Drinking water 
+76	111				鉱水					Mineral water 
+76	119				その他の飲料水（炭酸水を含む。）					Other drinking water (including carbonated water) 
+76	12			清涼飲料						Soft drinks 
+76	121				発泡性飲料					Carbonated beverages 
+76	1211					炭酸水（砂糖，その他の調味料及び香料を加えないもの）				"Carbonated water (not sugared, seasoned nor flavoured)200290 "
+76	1212					コーラ炭酸飲料				Cola drinks 
+76	1213					透明炭酸飲料				Clear type carbonated drinks 
+76	1214					果汁入り炭酸飲料				Carbonated drinks with fruit juices 
+76	1215					果実着色炭酸飲料				Fruit flavour carbonated drinks 
+76	1216					乳類入り炭酸飲料				Lactic flavour carbonated drinks 
+76	1219					その他の発泡性飲料				Other carbonated drinks 
+76	122				非発泡性飲料（うすめて飲用されるものを含む。）					Still beverages (including their concentrates for dilution) 
+76	1221					果実飲料				Fruit drinks 
+76	12211						天然果汁			Natural fruit juices 
+76	122111							かんきつ		Citrus juices 
+76	1221111								うんしゅうみかん	"“Unsyu mican"" juices "
+76	1221112								オレンジ	Orange juices 
+76	1221113								グレープフルーツ	Grapefruit juices 
+76	1221119								その他のかんきつ	Other citrus fruit juices 
+76	122112							りんご		Apple juices 
+76	122113							ぶどう		Grape juices 
+76	122114							パインアップル		Pineapple juices 
+76	122115							もも		Peach juices 
+76	122119							その他の天然果汁		Other natural fruit juices 
+76	12212						果汁飲料			Fruit juice drinks 
+76	122121							かんきつ		Citrus juice drinks 
+76	1221211								うんしゅうみかん	"“Unsyu mican"" juice drinks "
+76	1221219								その他のかんきつ	Other citrus fruit juice drinks 
+76	122122							りんご		Apple juice drinks 
+76	122123							ぶどう		Grape juice drinks 
+76	122124							パインアップル		Pineapple juice drinks 
+76	122129							その他の果汁飲料		Other fruit juice drinks
+76	12213						果肉飲料			Fruit pulp drinks
+76	122131							かんきつ		Citrus pulp drinks
+76	1221311								うんしゅうみかん	"“Unsyu mican"" pulp drinks"
+76	1221312								なつみかん	Summer orange pulp drinks
+76	1221329								その他のかんきつ	Other pulp drinks
+76	122132							りんご		Apple pulp drinks
+76	122133							もも		Peach pulp drinks
+76	122139							その他の果肉飲料		Other pulp drinks
+76	12214						果汁入り清涼飲料			Soft drinks containing fruit juice
+76	122141							かんきつ		Citrus soft drinks
+76	1221411								うんしゅうみかん	"“Unsyu rnican"" soft drinks"
+76	1221412								なつみかん	Summer orange soft drinks
+76	1221413								レモン	Lemon soft drinks
+76	1221414								グレープフルーツ	Grapefruit soft drinks
+76	1221419								その他のかんきつ	Other citrus soft drinks
+76	122142							りんご		Apple soft drinks
+76	122143							ぶどう		Grape soft drinks
+76	122144							パインアップル		Pineapple soft drinks
+76	122145							もも		Peach soft drinks
+76	122149							その他の果汁入り清涼飲料		Other soft drinks containing fruit juice
+76	1222					果粒入り果実飲料				Fruit drinks containing granules
+76	12221						かんきつ			Citrus sac containing granules
+76	12229						その他の果粒入り果実飲料			Other drinks containing granules
+76	1223					着香飲料				Flavoured beverages
+76	1224					着香シロップ				Flavoured syrup
+76	1225					牛乳又は乳製品から造られた酸性飲料				"Acid beverages, manufactured from milk or dairy products.. 040390"
+76	1226					コーヒー飲料				Coffee beverages
+76	1227					茶系飲料				Tea beverages
+76	12271						緑茶飲料			Green tea drinks
+76	12272						紅茶			Black tea drinks
+76	12273						ウーロン茶			Oolong (Oulong) tea drinks
+76	1228					豆乳類				Soy milks
+76	12281						豆乳			Soy milk
+76	12282						調製豆乳			Prepared soy milk
+76	12283						豆乳飲料			Soy milk beverage
+76	1229					その他の非発泡性飲料				Other still beverages
+76	19			その他のアルコールを含まない飲料						Other non-alcoholic beverages
+76	2		アルコールを含む飲料（医薬用を除く。）							Alcoholic beverages (except medicine)
+76	21			ビール						Beer
+76	22			果実酒						Fruit wine
+76	221				ふどう酒					Wine
+76	2211					ぶどう酒				Wine
+76	2212					甘味ぶどう酒（ヴェルモットを除く。）				Fortified wine (except vermouth)
+76	2213					ヴェルモット				Vermouth
+76	2214					発泡性ぶどう酒				Sparkling wine
+76	229				その他の果実酒					Other fruit wine
+76	2291					発泡性を有しない果実酒				Fruit wine (except sparkling wine)
+76	22911						甘味果実酒			Sweet fruit wine
+76	22919						その他の果実酒			Other fruit wine
+76	2292					発泡性を有する果実酒				Sparkling fruit wine
+76	22921						甘味果実酒			Sweet fruit wine
+76	22929						その他の果実酒			Other fruit wine
+76	23			穀物を原料として発酵させた飲料（ビールを除く。）						Alcoholic beverages fermented from cereals (except beer)
+76	231				清酒					Sake
+76	232				発泡酒（麦芽を原料の一部とした酒類）					Alcoholic sparkling beverages fermented from malt and other starchy material
+76	233				濁酒					Dakushu
+76	239				その他の穀物を原料として発酵させた飲料					Other alcoholic beverages fermented from cereals
+76	24			蒸留酒						Distilled alcoholic beverages
+76	241				しょうちゅう					“Shochu”
+76	2411					連続式蒸留機により蒸留したもの				"“Shochu"", distilled through continuous still"
+76	2419					単式蒸留機により蒸留したもの				"“Shochu"", distilled through pot still"
+76	242				ウイスキー					Whisky
+76	243				ブランデー					Brandy
+76	2431					ぶどう酒又はぶどう酒かすを原料としたブランデー				"Brandy, obtained by the distillation of wine or grapemarc"
+76	2439					その他のブランデー				Other brandy
+76	244				ジン					Gin
+76	245				ラム					Rum
+76	246				ウオッカ					Vodka
+76	247				エチルアルコール					Ethyl alcohol
+76	249				その他の蒸留酒					Other distilled alcohollic bevereges
+76	29			その他のアルコールを含む飲料（医薬用を除く。）						Other alcoholic bevereges (except medicine)
+76	291				みりん					Mirin
+76	292				合成清酒					Synthetic sake
+76	293				白酒					Siro sake
+76	294				リキュール					Liqueur
+76	299				他に分類されないアルコールを含む飲料					"Alcoholic beverages, n.e.c."
+76	3		氷							Ice
+76	31			人造氷						"Ice, manufactured"
+76	32			天然氷						"Ice, natural"
