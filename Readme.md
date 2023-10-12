@@ -8,5 +8,7 @@ that data showing the full extent of the scanned images is publicly available. T
 the publications to text data using the OCR function of Google Docs. I should have published the data in RDF/OWL, 
 but we thought it might be useful for certain people even in this state, so I decided to make it public.
 
+Original data https://www.soumu.go.jp/main_content/000294393.pdf
+
 higuchi@nibiohn.go.jp
 
